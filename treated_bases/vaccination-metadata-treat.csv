@@ -1,0 +1,1072 @@
+pais,produto,empresa,data_de_autorizacao,data_de_inicio
+Turquia,Turkovac,Health Institutes of Turkey,,
+Paraguai,Hayat-Vax,Julphar,2020-12-30,2021-05-24
+Filipinas,Hayat-Vax,Julphar,2021-08-11,2021-08-25
+Seicheles,Hayat-Vax,Julphar,,
+Irã,COVIran Barakat,Shifa,,
+Mônaco,Covavax,Novavax,,2022-03-30
+Tailândia,Covovax,SII,2022-04-27,
+Índia,Covovax,SII,,
+Austria,Spikevax Bivalent Original/Omicron BA.1,Moderna,,2021-07-28
+Estônia,Spikevax Bivalent Original/Omicron BA.1,Moderna,,2022-10-12
+Itália,Spikevax Bivalent Original/Omicron BA.1,Moderna,,2022-10-05
+Luxemburgo,Spikevax Bivalent Original/Omicron BA.1,Moderna,,2022-09-14
+Portugal,Spikevax Bivalent Original/Omicron BA.1,Moderna,,2022-09-28
+Suíça,Spikevax Bivalent Original/Omicron BA.1,Moderna,,2020-12-30
+Austria,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech,,2021-01-06
+Tchéquia,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech,,2022-09-14
+Estônia,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech,,2022-09-28
+Grécia,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech,,2022-09-28
+Hungria,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech,,2022-09-07
+Itália,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech,,2022-09-14
+Luxemburgo,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech,,2022-09-07
+Portugal,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech,,2020-12-30
+Suíça,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech,,2022-10-19
+Austria,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech,,2021-01-13
+Tchéquia,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech,,2022-10-05
+Estônia,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech,,2022-09-28
+Grécia,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech,,2022-10-05
+Itália,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech,,2022-09-28
+Luxemburgo,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech,,2022-10-12
+Portugal,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech,,2022-09-28
+Alemanha,Spikevax Bivalent Original/Omicron  - Generic,Moderna,,2022-09-14
+Alemanha,Comirnaty Bivalent Original/Omicron - Generic,Pfizer BioNTech,,2022-09-07
+"Santa Helena, Ascensão e Tristão da Cunha",AZD1222,AstraZeneca,,
+Groelândia,mRNA-1273,Moderna,,
+Ilhas Faroé,mRNA-1273,Moderna,,
+Ilhas Faroé,Comirnaty,Pfizer BioNTech,,
+Bósnia e Herzegovina,AZD1222,AstraZeneca,,
+Bósnia e Herzegovina,Comirnaty,Pfizer BioNTech,,
+Jersey,mRNA-1273,Moderna,,
+Jersey,AZD1222,AstraZeneca,,
+Jersey,Comirnaty,Pfizer BioNTech,,
+Guernsey,mRNA-1273,Moderna,,
+Guernsey,AZD1222,AstraZeneca,,
+Guernsey,Comirnaty,Pfizer BioNTech,,
+Bósnia e Herzegovina,Coronavac,Sinovac,,
+Gibraltar,AZD1222,AstraZeneca,,
+Gibraltar,Comirnaty,Pfizer BioNTech,,
+Ilha de Man,mRNA-1273,Moderna,,
+Ilha de Man,AZD1222,AstraZeneca,,
+Ilha de Man,Comirnaty,Pfizer BioNTech,,
+Malvinas,AZD1222,AstraZeneca,,
+Federação Russa,EpiVacCorona,State Research Center of Virology & Biotechnology,,
+Turquia,Comirnaty,Pfizer BioNTech,,
+Turquia,Coronavac,Sinovac,,
+Uzbequistão,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,,2021-04-28
+China,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,2021-03-17,2021-03-17
+Turquemenistão,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,,2021-02-24
+China,LV-SMENP-DC,Shenzhen GenoImmune Medical Institute,2021-05-14,2021-06-01
+Austria,VLA2001,Valneva,,2022-08-24
+Alemanha,VLA2001,Valneva,,2022-09-14
+República Bolivariana da Venezuela,Soberana-02,Instituto Finlay de Vacunas,,
+Cuba,Soberana-02,Instituto Finlay de Vacunas,,
+Irã,Soberana-02,Instituto Finlay de Vacunas,,
+Nicarágua,Soberana-02,Instituto Finlay de Vacunas,,2021-10-25
+China,Covidful,Insitute of Medical Biology,2021-06-09,2021-06-09
+Azerbaijão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-05-19
+Quirguistão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-04-21
+Eslováquia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-01-20
+Armênia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-06-16
+Omã,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-14,2020-12-29
+Maldivas,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-30,
+Antígua e Barbuda,Gam-Covid-Vac,Gamaleya Research Institute,2021-07-24,2021-08-16
+Tajiquistão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-08-18
+República Democrática Popular do Laos,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-03,2021-02-09
+Mongólia,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-06,2021-03-19
+Filipinas,Gam-Covid-Vac,Gamaleya Research Institute,2021-03-19,2021-05-04
+Hungria,Gam-Covid-Vac,Gamaleya Research Institute,,2021-02-10
+Bielorrússia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-02-03
+Paraguai,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-22,2021-02-22
+Argentina,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-23,2020-12-29
+Bolívia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-01-30
+Irã,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-27,2021-02-09
+Palestina,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-25,2021-02-02
+Tunísia,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-11,2021-03-13
+Paquistão,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-20,2021-02-03
+San Marino,Gam-Covid-Vac,Gamaleya Research Institute,,2021-02-24
+Montenegro,Gam-Covid-Vac,Gamaleya Research Institute,,2021-02-24
+Gabão,Gam-Covid-Vac,Gamaleya Research Institute,,
+Ruanda,Gam-Covid-Vac,Gamaleya Research Institute,2021-03-31,
+Seicheles,Gam-Covid-Vac,Gamaleya Research Institute,,
+Zimbábue,Gam-Covid-Vac,Gamaleya Research Institute,,
+República Bolivariana da Venezuela,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-01,2021-02-22
+Iraque,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-29,2021-03-02
+México,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-09,2021-02-24
+Jordânia,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-13,2021-01-13
+Djibouti,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-22,2021-03-15
+Líbano,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-16,2021-02-14
+Cazaquistão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-04-07
+Macedônia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-03-10
+São Vicente e Granadinas,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-30,2021-02-01
+Argélia,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-10,2021-01-30
+Afeganistão,Gam-Covid-Vac,Gamaleya Research Institute,,
+Nicarágua,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-02,2021-03-03
+Sudão,Gam-Covid-Vac,Gamaleya Research Institute,,
+Iêmen,Gam-Covid-Vac,Gamaleya Research Institute,,
+Emirados Árabes Unidos,Gam-Covid-Vac,Gamaleya Research Institute,,
+Egito,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-30,2021-01-24
+Bahrein,Gam-Covid-Vac,Gamaleya Research Institute,2020-11-03,2020-11-04
+Camarões,Gam-Covid-Vac,Gamaleya Research Institute,,
+Sri Lanka,Gam-Covid-Vac,Gamaleya Research Institute,2021-03-04,2021-05-06
+Guiana,Gam-Covid-Vac,Gamaleya Research Institute,2021-04-02,2021-04-02
+Kuwait,Gam-Covid-Vac,Gamaleya Research Institute,,
+Catar,Gam-Covid-Vac,Gamaleya Research Institute,,
+Arábia Saudita,Gam-Covid-Vac,Gamaleya Research Institute,,
+Somália,Gam-Covid-Vac,Gamaleya Research Institute,,
+Sérvia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-01-06
+Turquemenistão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-02-24
+República do Congo,Gam-Covid-Vac,Gamaleya Research Institute,2021-03-03,2021-03-23
+Guiné,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-27,2021-03-05
+Vietnã,Gam-Covid-Vac,Gamaleya Research Institute,2021-03-23,2021-08-01
+Malásia,Gam-Covid-Vac,Gamaleya Research Institute,,
+Gana,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-09,2021-03-02
+Costa do Marfim,Gam-Covid-Vac,Gamaleya Research Institute,,2021-03-01
+Síria,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-03,2021-04-01
+Honduras,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-19,2021-04-22
+Índia,Gam-Covid-Vac,Gamaleya Research Institute,2021-04-12,2021-05-14
+Nepal,Gam-Covid-Vac,Gamaleya Research Institute,2021-04-20,
+Líbia,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-24,2021-04-11
+Bangladesh,Gam-Covid-Vac,Gamaleya Research Institute,2021-04-27,
+Moldávia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-05-05
+Albânia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-03-24
+Uzbequistão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-04-28
+Guatemala,Gam-Covid-Vac,Gamaleya Research Institute,,2021-05-17
+Cazaquistão,QazVac,Research Institute for Biological Safety Problems,,2021-04-28
+Turquemenistão,QazVac,Research Institute for Biological Safety Problems,,2021-02-24
+Quirguistão,QazVac,Research Institute for Biological Safety Problems,,2021-09-29
+Chade,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-07,2021-06-04
+Quirguistão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-31
+Vanuatu,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-02,2021-06-15
+Vietnã,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-03,2021-07-10
+Mianmar,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-12,2021-06-01
+Costa do Marfim,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-10,
+Quiribati,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-29,2021-09-03
+Burundi,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-09-29,2021-10-18
+Líbia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-24,2021-04-11
+Armênia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-08-18
+Butão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-16,2021-07-20
+Tunísia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-11,2021-03-13
+Lesoto,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Madagascar,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-08-05,
+Ruanda,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-07-30,
+Tanzânia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-08-08,
+Zâmbia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Singapura,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-08-30
+El Salvador,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-03,2021-06-22
+Burkina Faso,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-09-20,
+Cabo Verde,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Quênia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Gâmbia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-10
+Líbano,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-16,2021-02-14
+Djibouti,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-22,2021-03-15
+Hungria,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-02-24
+Montenegro,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-10
+Camboja,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-04,2021-02-10
+República Democrática Popular do Laos,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-16,2020-11-25
+República Bolivariana da Venezuela,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-12,2021-03-08
+Peru,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-26,2021-02-09
+Seicheles,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-01-10
+Guiné Equatorial,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-01,2021-02-12
+Iraque,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-29,2021-03-02
+Irã,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-27,2021-02-09
+Bahrein,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-11-03,2020-11-04
+Paquistão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-20,2021-02-03
+Camarões,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-06,2021-01-28
+Filipinas,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-07,2021-08-30
+Jamaica,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-11-12,2021-12-13
+Malásia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-07-16,
+Portugal,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2020-12-23
+Jordânia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-13,2021-01-13
+Egito,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-30,2021-01-24
+Emirados Árabes Unidos,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Palestina,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-25,2021-02-02
+Kuwait,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-13,2020-12-28
+Mongólia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-09,2021-03-10
+Bolívia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-05-02
+Dominica,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-11
+Paraguai,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-30,2021-03-15
+Arábia Saudita,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Iêmen,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Moçambique,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-18,
+Argentina,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-21,2021-03-02
+Guiana,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-25,2021-03-02
+Maldivas,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-17,2021-03-22
+Ilhas Salomão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-12,2021-05-21
+Moldávia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-24
+Sri Lanka,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-08,2021-04-05
+Nepal,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-16,2021-04-07
+Omã,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Catar,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Guiné,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-12,2021-03-05
+Ilhas Maurício,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-18,
+China,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-07-22,2020-07-22
+Afeganistão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-23,2021-02-22
+Papua-Nova Guiné,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-25,2021-06-28
+Brunei,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-03,2021-04-03
+Mauritânia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-26
+Zimbábue,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Namíbia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-19
+Comores,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-01,2021-04-10
+República do Congo,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-03,2021-03-23
+Níger,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-23,2021-03-29
+Etiópia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-05,2021-03-13
+Síria,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-03,2021-04-01
+Sérvia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-01-20
+Argélia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-10,
+Turquemenistão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-02-24
+Gabão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-23
+Cazaquistão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-05-05
+Indonésia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-04-29,2021-05-18
+Guiné-Bissau,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-04-02
+Serra Leoa,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-15
+Senegal,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-23,2021-02-23
+Camarões,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-04-01,2021-04-12
+Somália,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-22,2021-03-16
+Sudão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-20,2021-03-09
+Bangladesh,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-04-29,2021-05-25
+Macedônia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-04-21
+Geórgia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-05-05
+Bielorrússia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-24
+Tailândia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-28,2021-06-25
+Antígua e Barbuda,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Barbados,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-06-30
+Suriname,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-28,2021-07-10
+Trindade e Tobago,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+Belize,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-17,2021-05-18
+Índia,ZyCov-D,Zydus Cadila,2021-08-20,
+Índia,Corbevax,Biological E,,2022-03-16
+Nicarágua,CIGB-66,Center for Genetic Engineering and Biotechnology,,2021-10-25
+República Bolivariana da Venezuela,CIGB-66,Center for Genetic Engineering and Biotechnology,,
+Vietnã,CIGB-66,Center for Genetic Engineering and Biotechnology,2021-09-17,2021-10-17
+Cuba,CIGB-66,Center for Genetic Engineering and Biotechnology,,
+Armênia,Vaxzevria,AstraZeneca,,2021-06-16
+Ilhas Salomão,Vaxzevria,AstraZeneca,2021-05-26,2021-08-27
+Ilhas Pitcairn,Vaxzevria,AstraZeneca,2021-05-17,2021-05-17
+Bangladesh,Vaxzevria,AstraZeneca,2021-06-23,
+Nepal,Vaxzevria,AstraZeneca,2021-06-30,
+Camboja,Vaxzevria,AstraZeneca,2021-07-15,2021-07-25
+Nicarágua,Vaxzevria,AstraZeneca,2021-02-15,2021-08-04
+El Salvador,Vaxzevria,AstraZeneca,2020-12-30,2021-02-17
+Ucrânia,Vaxzevria,AstraZeneca,,2021-04-28
+Palestina,Vaxzevria,AstraZeneca,2021-01-25,2021-02-02
+Sri Lanka,Vaxzevria,AstraZeneca,2021-07-09,
+República Democrática Popular do Laos,Vaxzevria,AstraZeneca,,2021-08-04
+Quirguistão,Vaxzevria,AstraZeneca,,2021-07-14
+Chipre,Vaxzevria,AstraZeneca,,2021-02-10
+Bélgica,Vaxzevria,AstraZeneca,,2021-02-10
+Portugal,Vaxzevria,AstraZeneca,,2020-12-30
+Países Baixos,Vaxzevria,AstraZeneca,,2021-01-06
+Polônia,Vaxzevria,AstraZeneca,,2021-01-06
+Tchéquia,Vaxzevria,AstraZeneca,,2021-02-03
+Suécia,Vaxzevria,AstraZeneca,,2021-02-10
+Hungria,Vaxzevria,AstraZeneca,,2021-02-10
+Romênia,Vaxzevria,AstraZeneca,,2021-02-17
+Lituânia,Vaxzevria,AstraZeneca,,2021-02-10
+Espanha,Vaxzevria,AstraZeneca,,2021-02-10
+Austria,Vaxzevria,AstraZeneca,,2021-02-10
+Letônia,Vaxzevria,AstraZeneca,,2021-02-10
+Itália,Vaxzevria,AstraZeneca,,2021-01-13
+Eslovênia,Vaxzevria,AstraZeneca,,2021-02-10
+França,Vaxzevria,AstraZeneca,,2021-02-03
+Islândia,Vaxzevria,AstraZeneca,,2021-02-10
+Bulgária,Vaxzevria,AstraZeneca,,2021-02-03
+Luxemburgo,Vaxzevria,AstraZeneca,,2021-02-10
+Irlanda,Vaxzevria,AstraZeneca,,2021-01-13
+Estônia,Vaxzevria,AstraZeneca,,2021-02-17
+Alemanha,Vaxzevria,AstraZeneca,,2021-02-10
+Croácia,Vaxzevria,AstraZeneca,,2021-01-13
+Finlândia,Vaxzevria,AstraZeneca,,2020-12-30
+Egito,Vaxzevria,AstraZeneca,2020-12-30,2021-01-24
+Camarões,Vaxzevria,AstraZeneca,2021-01-06,2021-01-28
+Filipinas,Vaxzevria,AstraZeneca,2021-01-28,2021-03-07
+Dinamarca,Vaxzevria,AstraZeneca,,2020-12-30
+Eslováquia,Vaxzevria,AstraZeneca,,2021-01-13
+Grécia,Vaxzevria,AstraZeneca,,2020-12-23
+Ilhas Virgens Britânicas,Vaxzevria,AstraZeneca,,2021-02-11
+Montserrat,Vaxzevria,AstraZeneca,,2021-02-08
+Anguilla,Vaxzevria,AstraZeneca,2020-12-01,2021-02-05
+Omã,Vaxzevria,AstraZeneca,2021-02-14,2020-12-29
+Irã,Vaxzevria,AstraZeneca,2021-01-27,2021-02-09
+Jordânia,Vaxzevria,AstraZeneca,2020-12-13,2021-01-13
+Malta,Vaxzevria,AstraZeneca,,2020-12-30
+Canadá,Vaxzevria,AstraZeneca,,
+Benin,Vaxzevria,AstraZeneca,,
+Israel,Vaxzevria,AstraZeneca,,2021-10-20
+Bolívia,Vaxzevria,AstraZeneca,,2021-03-22
+São Vicente e Granadinas,Vaxzevria,AstraZeneca,,
+Vietnã,Vaxzevria,AstraZeneca,2021-02-01,2021-03-08
+Fiji,Vaxzevria,AstraZeneca,2021-02-22,2021-03-07
+Líbano,Vaxzevria,AstraZeneca,2020-12-16,2021-02-14
+Kuwait,Vaxzevria,AstraZeneca,2020-12-13,2020-12-28
+Tunísia,Vaxzevria,AstraZeneca,2021-01-11,2021-03-13
+Arábia Saudita,Vaxzevria,AstraZeneca,2020-12-10,2021-01-06
+Djibouti,Vaxzevria,AstraZeneca,2021-02-22,2021-03-15
+Iraque,Vaxzevria,AstraZeneca,2020-12-29,2021-03-02
+Líbia,Vaxzevria,AstraZeneca,2021-02-24,2021-04-11
+Japão,Vaxzevria,AstraZeneca,2021-05-21,2021-08-21
+Moldávia,Vaxzevria,AstraZeneca,,2021-03-03
+México,Vaxzevria,AstraZeneca,2021-01-04,2021-02-15
+Papua-Nova Guiné,Vaxzevria,AstraZeneca,2021-03-18,2021-03-30
+Mongólia,Vaxzevria,AstraZeneca,2021-01-10,2021-03-19
+Paraguai,Vaxzevria,AstraZeneca,2020-12-30,2021-03-23
+Reino Unido,Vaxzevria,AstraZeneca,,2021-02-08
+Belize,Vaxzevria,AstraZeneca,2021-02-15,2021-04-07
+Afeganistão,Vaxzevria,AstraZeneca,2021-02-23,2021-02-22
+Emirados Árabes Unidos,Vaxzevria,AstraZeneca,,
+Catar,Vaxzevria,AstraZeneca,,
+Geórgia,Vaxzevria,AstraZeneca,,2021-03-17
+Albânia,Vaxzevria,AstraZeneca,,2021-03-10
+Brunei,Vaxzevria,AstraZeneca,2021-02-22,2021-04-03
+Malásia,Vaxzevria,AstraZeneca,2021-02-15,2021-05-05
+Síria,Vaxzevria,AstraZeneca,2021-02-03,2021-04-01
+Iêmen,Vaxzevria,AstraZeneca,2021-02-27,2021-04-20
+Mônaco,Vaxzevria,AstraZeneca,,2022-04-27
+Kosovo,Vaxzevria,AstraZeneca,,2021-03-31
+São Tomé e Príncipe,Vaxzevria,AstraZeneca,,2021-03-15
+Honduras,Vaxzevria,AstraZeneca,2021-02-15,2021-03-15
+Sint Maarten,Vaxzevria,AstraZeneca,,
+Uruguai,Vaxzevria,AstraZeneca,2021-02-11,2021-04-17
+Equador,Vaxzevria,AstraZeneca,2021-01-22,2021-03-19
+Paquistão,Vaxzevria,AstraZeneca,2021-01-20,2021-02-03
+Somália,Vaxzevria,AstraZeneca,2021-02-22,2021-03-16
+Sudão,Vaxzevria,AstraZeneca,2021-02-20,2021-03-09
+Antígua e Barbuda,Vaxzevria,AstraZeneca,2021-02-01,2021-03-01
+Guatemala,Vaxzevria,AstraZeneca,2021-03-11,2021-03-15
+Bermudas,Vaxzevria,AstraZeneca,,2021-05-07
+Curaçao,Vaxzevria,AstraZeneca,,
+Bahamas,Vaxzevria,AstraZeneca,,2021-03-14
+São Cristóvão e Névis,Vaxzevria,AstraZeneca,,
+Argentina,Vaxzevria,AstraZeneca,2021-12-20,2021-03-30
+Dominica,Vaxzevria,AstraZeneca,2021-02-25,2021-04-07
+Suriname,Vaxzevria,AstraZeneca,2021-05-10,2021-05-26
+Santa Lúcia,Vaxzevria,AstraZeneca,,
+Trindade e Tobago,Vaxzevria,AstraZeneca,,2021-04-07
+República Dominicana,Vaxzevria,AstraZeneca,,
+Nauru,Vaxzevria,AstraZeneca,2021-03-02,2021-04-09
+Montenegro,Vaxzevria,AstraZeneca,,2021-03-31
+Noruega,Vaxzevria,AstraZeneca,,2021-01-06
+Macedônia,Vaxzevria,AstraZeneca,,2021-03-31
+Colômbia,Vaxzevria,AstraZeneca,2021-02-23,2021-03-29
+Guiana,Vaxzevria,AstraZeneca,,
+Vanuatu,Vaxzevria,AstraZeneca,2021-05-10,2021-06-02
+Samoa,Vaxzevria,AstraZeneca,2021-02-23,2021-04-18
+Nova Zelândia,Vaxzevria,AstraZeneca,2021-07-22,2021-11-26
+Tonga,Vaxzevria,AstraZeneca,2021-02-22,2021-04-14
+Singapura,Vaxzevria,AstraZeneca,,
+Quiribati,Vaxzevria,AstraZeneca,2021-03-12,2021-05-26
+Brasil,Vaxzevria,AstraZeneca,2021-01-17,2021-01-18
+Barbados,Vaxzevria,AstraZeneca,,2021-04-08
+Austrália,Vaxzevria,AstraZeneca,2021-02-15,2021-02-21
+República da Coreia,Vaxzevria,AstraZeneca,2021-02-09,2021-02-26
+Estados Federados da Micronésia,Vaxzevria,AstraZeneca,,
+Tuvalu,Vaxzevria,AstraZeneca,2021-02-23,2021-04-13
+Peru,Vaxzevria,AstraZeneca,2021-04-12,2021-04-21
+Sérvia,Vaxzevria,AstraZeneca,,2021-02-24
+Turquemenistão,Vaxzevria,AstraZeneca,,2021-02-24
+Tajiquistão,Vaxzevria,AstraZeneca,,2021-04-14
+Costa Rica,Vaxzevria,AstraZeneca,2021-02-26,2021-04-19
+Jamaica,Vaxzevria,AstraZeneca,2021-02-15,2021-03-10
+Andorra,Vaxzevria,AstraZeneca,,2021-03-03
+Azerbaijão,Vaxzevria,AstraZeneca,,2021-05-05
+Guadalupe,Vaxzevria,AstraZeneca,,
+Indonésia,Vaxzevria,AstraZeneca,2021-02-21,2021-03-23
+Tailândia,Vaxzevria,AstraZeneca,2021-01-20,2021-03-16
+Timor-Leste,Vaxzevria,AstraZeneca,2021-02-23,2021-04-07
+Butão,Vaxzevria,AstraZeneca,2021-06-17,
+Maldivas,Vaxzevria,AstraZeneca,2021-06-20,2021-07-27
+Panamá,Vaxzevria,AstraZeneca,2021-03-02,2021-04-22
+Granada,Vaxzevria,AstraZeneca,2021-02-12,2021-02-15
+Chile,Vaxzevria,AstraZeneca,2021-01-27,2021-04-27
+Bahrein,Vaxzevria,AstraZeneca,2020-11-03,2020-11-04
+Chile,Convidecia,CanSino Biologicals,2021-04-07,2021-06-03
+México,Convidecia,CanSino Biologicals,2021-02-08,2021-03-28
+China,Convidecia,CanSino Biologicals,2020-07-22,2020-07-22
+Malásia,Convidecia,CanSino Biologicals,2021-06-15,
+Iraque,Convidecia,CanSino Biologicals,,
+Jordânia,Convidecia,CanSino Biologicals,,
+Egito,Convidecia,CanSino Biologicals,,
+Irã,Convidecia,CanSino Biologicals,,
+Equador,Convidecia,CanSino Biologicals,2021-06-14,2021-08-02
+Argentina,Convidecia,CanSino Biologicals,,2021-09-08
+Emirados Árabes Unidos,Convidecia,CanSino Biologicals,,
+Iêmen,Convidecia,CanSino Biologicals,,
+Paquistão,Convidecia,CanSino Biologicals,2021-01-20,2021-02-03
+Afeganistão,Convidecia,CanSino Biologicals,,
+Bahrein,Convidecia,CanSino Biologicals,,
+Djibouti,Convidecia,CanSino Biologicals,,
+Catar,Convidecia,CanSino Biologicals,,
+Arábia Saudita,Convidecia,CanSino Biologicals,,
+Somália,Convidecia,CanSino Biologicals,,
+Sudão,Convidecia,CanSino Biologicals,,
+Síria,Convidecia,CanSino Biologicals,,
+Tunísia,Convidecia,CanSino Biologicals,,
+Kuwait,Convidecia,CanSino Biologicals,,
+Líbano,Convidecia,CanSino Biologicals,,
+Líbia,Convidecia,CanSino Biologicals,,
+Camarões,Convidecia,CanSino Biologicals,,
+Omã,Convidecia,CanSino Biologicals,,
+Palestina,Convidecia,CanSino Biologicals,,
+Bielorrússia,Covi-Vac,Chumakov,,2022-01-12
+Macedônia,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),,2021-04-21
+China,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),2020-07-22,2020-07-22
+Armênia,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),,2022-03-09
+Suíça,Comirnaty,Pfizer BioNTech,,2020-12-23
+Paquistão,Comirnaty,Pfizer BioNTech,2021-01-20,2021-02-03
+Martinica,Comirnaty,Pfizer BioNTech,,
+Botsuana,Comirnaty,Pfizer BioNTech,2021-02-25,2021-03-26
+Azerbaijão,Comirnaty,Pfizer BioNTech,,2021-06-09
+Honduras,Comirnaty,Pfizer BioNTech,,2021-06-21
+Suriname,Comirnaty,Pfizer BioNTech,2021-08-20,2021-08-28
+Argentina,Comirnaty,Pfizer BioNTech,,2021-09-16
+São Cristóvão e Névis,Comirnaty,Pfizer BioNTech,2021-09-01,2021-09-01
+Santa Lúcia,Comirnaty,Pfizer BioNTech,,
+Guatemala,Comirnaty,Pfizer BioNTech,,2021-08-22
+Camarões,Comirnaty,Pfizer BioNTech,2021-01-06,2021-01-28
+Granada,Comirnaty,Pfizer BioNTech,,2021-08-23
+Guiana,Comirnaty,Pfizer BioNTech,,2021-08-24
+Djibouti,Comirnaty,Pfizer BioNTech,2021-02-22,2021-03-15
+Antígua e Barbuda,Comirnaty,Pfizer BioNTech,2021-08-12,2021-08-24
+Bahamas,Comirnaty,Pfizer BioNTech,,2021-08-12
+Belize,Comirnaty,Pfizer BioNTech,2021-12-31,2021-08-21
+Barbados,Comirnaty,Pfizer BioNTech,,2021-08-19
+Dominica,Comirnaty,Pfizer BioNTech,,
+Macedônia,Comirnaty,Pfizer BioNTech,,2021-02-17
+São Vicente e Granadinas,Comirnaty,Pfizer BioNTech,,
+Egito,Comirnaty,Pfizer BioNTech,2020-12-30,2021-01-24
+Indonésia,Comirnaty,Pfizer BioNTech,2021-07-14,2021-08-23
+Tailândia,Comirnaty,Pfizer BioNTech,2021-06-24,2021-08-06
+Palau,Comirnaty,Pfizer BioNTech,2020-12-11,2021-07-26
+Polônia,Comirnaty,Pfizer BioNTech,,2020-12-23
+Hungria,Comirnaty,Pfizer BioNTech,,2020-12-23
+Bulgária,Comirnaty,Pfizer BioNTech,,2020-12-30
+Luxemburgo,Comirnaty,Pfizer BioNTech,,2020-12-30
+Malta,Comirnaty,Pfizer BioNTech,,2020-12-23
+Tchéquia,Comirnaty,Pfizer BioNTech,,2020-12-23
+Ucrânia,Comirnaty,Pfizer BioNTech,,2021-04-14
+Chipre,Comirnaty,Pfizer BioNTech,,2020-12-23
+Suécia,Comirnaty,Pfizer BioNTech,,2020-12-23
+Lituânia,Comirnaty,Pfizer BioNTech,,2020-12-23
+Espanha,Comirnaty,Pfizer BioNTech,,2020-12-30
+França,Comirnaty,Pfizer BioNTech,,2020-12-30
+Grécia,Comirnaty,Pfizer BioNTech,,2020-12-23
+Israel,Comirnaty,Pfizer BioNTech,,2020-12-16
+Bélgica,Comirnaty,Pfizer BioNTech,,2020-12-30
+Romênia,Comirnaty,Pfizer BioNTech,,2021-01-27
+Portugal,Comirnaty,Pfizer BioNTech,,2020-12-23
+Irlanda,Comirnaty,Pfizer BioNTech,,2020-12-30
+Estônia,Comirnaty,Pfizer BioNTech,,2020-12-23
+Albânia,Comirnaty,Pfizer BioNTech,,2021-01-13
+Países Baixos,Comirnaty,Pfizer BioNTech,,2021-01-06
+Islândia,Comirnaty,Pfizer BioNTech,,2020-12-30
+Itália,Comirnaty,Pfizer BioNTech,,2020-12-23
+Letônia,Comirnaty,Pfizer BioNTech,,2020-12-30
+Dinamarca,Comirnaty,Pfizer BioNTech,,2020-12-16
+Croácia,Comirnaty,Pfizer BioNTech,,2020-12-23
+Eslováquia,Comirnaty,Pfizer BioNTech,,2020-12-23
+Alemanha,Comirnaty,Pfizer BioNTech,,2020-12-23
+Finlândia,Comirnaty,Pfizer BioNTech,,2020-12-23
+Austria,Comirnaty,Pfizer BioNTech,,2020-12-30
+Líbano,Comirnaty,Pfizer BioNTech,2020-12-16,2021-02-14
+Filipinas,Comirnaty,Pfizer BioNTech,2021-01-14,2021-05-12
+Malásia,Comirnaty,Pfizer BioNTech,2021-01-08,2021-02-24
+Mongólia,Comirnaty,Pfizer BioNTech,2021-01-10,2021-03-26
+Japão,Comirnaty,Pfizer BioNTech,2021-02-14,2021-02-17
+Eslovênia,Comirnaty,Pfizer BioNTech,,2020-12-23
+Tunísia,Comirnaty,Pfizer BioNTech,2021-01-11,2021-03-13
+Bahrein,Comirnaty,Pfizer BioNTech,2020-11-03,2020-11-04
+Emirados Árabes Unidos,Comirnaty,Pfizer BioNTech,,
+Palestina,Comirnaty,Pfizer BioNTech,2021-01-25,2021-02-02
+Arábia Saudita,Comirnaty,Pfizer BioNTech,2020-12-10,2021-01-06
+Jordânia,Comirnaty,Pfizer BioNTech,2020-12-13,2021-01-13
+Ilhas Cayman,Comirnaty,Pfizer BioNTech,2020-12-02,2021-01-15
+Colômbia,Comirnaty,Pfizer BioNTech,2021-01-05,2021-02-17
+Aruba,Comirnaty,Pfizer BioNTech,,2021-02-17
+Omã,Comirnaty,Pfizer BioNTech,2021-02-14,2020-12-29
+Catar,Comirnaty,Pfizer BioNTech,,
+Kuwait,Comirnaty,Pfizer BioNTech,2020-12-13,2020-12-28
+Panamá,Comirnaty,Pfizer BioNTech,2020-12-28,2021-01-20
+Chile,Comirnaty,Pfizer BioNTech,2020-12-16,2020-12-21
+Bermudas,Comirnaty,Pfizer BioNTech,2020-12-02,2021-01-11
+México,Comirnaty,Pfizer BioNTech,2020-12-11,2020-12-24
+Costa Rica,Comirnaty,Pfizer BioNTech,2020-12-15,2020-12-24
+Estados Unidos da America,Comirnaty,Pfizer BioNTech,2020-12-11,2020-12-14
+Quirguistão,Comirnaty,Pfizer BioNTech,,2021-11-03
+Anguilla,Comirnaty,Pfizer BioNTech,,2021-09-06
+Kosovo,Comirnaty,Pfizer BioNTech,,2021-05-05
+Ilhas Turcas e Caicos,Comirnaty,Pfizer BioNTech,,2021-01-11
+Equador,Comirnaty,Pfizer BioNTech,2021-12-17,2021-01-20
+Canadá,Comirnaty,Pfizer BioNTech,2020-12-09,2020-12-14
+Essuatíni,Comirnaty,Pfizer BioNTech,,
+Tanzânia,Comirnaty,Pfizer BioNTech,2021-08-24,
+Uganda,Comirnaty,Pfizer BioNTech,,
+África do Sul,Comirnaty,Pfizer BioNTech,,
+Tonga,Comirnaty,Pfizer BioNTech,2021-10-13,2021-10-21
+Timor-Leste,Comirnaty,Pfizer BioNTech,2021-08-27,2021-10-27
+Benin,Comirnaty,Pfizer BioNTech,,
+Costa do Marfim,Comirnaty,Pfizer BioNTech,2021-01-15,
+Camarões,Comirnaty,Pfizer BioNTech,2021-08-19,
+Gabão,Comirnaty,Pfizer BioNTech,,
+Quênia,Comirnaty,Pfizer BioNTech,,
+Namíbia,Comirnaty,Pfizer BioNTech,2021-07-09,
+San Marino,Comirnaty,Pfizer BioNTech,,2021-03-03
+Guiana Francesa,Comirnaty,Pfizer BioNTech,,2021-01-13
+Jamaica,Comirnaty,Pfizer BioNTech,2021-08-16,2021-08-21
+Uzbequistão,Comirnaty,Pfizer BioNTech,,2021-09-15
+Tajiquistão,Comirnaty,Pfizer BioNTech,,2021-10-06
+Nicarágua,Comirnaty,Pfizer BioNTech,2020-12-31,2021-10-13
+Líbia,Comirnaty,Pfizer BioNTech,2021-02-24,2021-04-11
+Iraque,Comirnaty,Pfizer BioNTech,2020-12-29,2021-03-02
+Curaçao,Comirnaty,Pfizer BioNTech,,2021-02-24
+Estados Federados da Micronésia,Comirnaty,Pfizer BioNTech,2020-12-11,2021-08-24
+Ilhas Marshall,Comirnaty,Pfizer BioNTech,2020-12-11,2021-10-01
+Liechtenstein,Comirnaty,Pfizer BioNTech,,2021-01-06
+Nepal,Comirnaty,Pfizer BioNTech,2021-06-30,2021-11-14
+Camboja,Comirnaty,Pfizer BioNTech,2021-08-02,2022-01-14
+Ilhas Salomão,Comirnaty,Pfizer BioNTech,2021-10-15,2021-12-16
+Samoa,Comirnaty,Pfizer BioNTech,,2021-10-25
+Armênia,Comirnaty,Pfizer BioNTech,,2022-02-16
+Irã,Comirnaty,Pfizer BioNTech,,
+Afeganistão,Comirnaty,Pfizer BioNTech,,
+El Salvador,Comirnaty,Pfizer BioNTech,2021-01-17,2021-03-23
+Países Baixos Caribenhos,Comirnaty,Pfizer BioNTech,,2021-02-22
+Reino Unido,Comirnaty,Pfizer BioNTech,,2020-12-21
+Uruguai,Comirnaty,Pfizer BioNTech,2021-01-21,2021-03-12
+Cazaquistão,Comirnaty,Pfizer BioNTech,,2021-11-10
+Iêmen,Comirnaty,Pfizer BioNTech,,
+Sint Maarten,Comirnaty,Pfizer BioNTech,,2021-02-22
+Peru,Comirnaty,Pfizer BioNTech,2021-02-01,2021-03-08
+Porto Rico,Comirnaty,Pfizer BioNTech,2020-12-11,
+Cabo Verde,Comirnaty,Pfizer BioNTech,2021-02-19,2021-03-18
+Sudão,Comirnaty,Pfizer BioNTech,,
+Moldávia,Comirnaty,Pfizer BioNTech,,2021-03-24
+Bangladesh,Comirnaty,Pfizer BioNTech,2021-03-08,2021-06-21
+Maldivas,Comirnaty,Pfizer BioNTech,2021-03-14,2021-04-13
+Butão,Comirnaty,Pfizer BioNTech,2021-03-08,2021-07-20
+Somália,Comirnaty,Pfizer BioNTech,2021-02-22,2021-03-16
+Síria,Comirnaty,Pfizer BioNTech,2021-02-03,2021-04-01
+Nova Zelândia,Comirnaty,Pfizer BioNTech,2021-02-03,2021-02-19
+Guam,Comirnaty,Pfizer BioNTech,2020-12-11,2021-01-04
+República Democrática Popular do Laos,Comirnaty,Pfizer BioNTech,2021-05-07,2021-06-15
+Brunei,Comirnaty,Pfizer BioNTech,,
+Geórgia,Comirnaty,Pfizer BioNTech,,2021-03-31
+Noruega,Comirnaty,Pfizer BioNTech,,2020-12-23
+Samoa Americana,Comirnaty,Pfizer BioNTech,2020-12-11,2020-12-21
+Comunidade das Ilhas Marianas do Norte,Comirnaty,Pfizer BioNTech,2020-12-11,2020-12-19
+Austrália,Comirnaty,Pfizer BioNTech,2021-01-25,2021-02-21
+Polinésia Francesa,Comirnaty,Pfizer BioNTech,2020-12-29,2021-01-18
+Singapura,Comirnaty,Pfizer BioNTech,2020-12-14,2020-12-30
+Nova Caledônia,Comirnaty,Pfizer BioNTech,2020-12-29,2021-01-20
+Guadalupe,Comirnaty,Pfizer BioNTech,,2021-01-08
+Sérvia,Comirnaty,Pfizer BioNTech,,2020-12-23
+Brasil,Comirnaty,Pfizer BioNTech,2021-02-23,2021-05-03
+Ruanda,Comirnaty,Pfizer BioNTech,2021-02-19,2021-03-05
+Guiné,Comirnaty,Pfizer BioNTech,2021-01-27,2021-03-05
+República da Coreia,Comirnaty,Pfizer BioNTech,2021-03-04,2021-02-27
+Niue,Comirnaty,Pfizer BioNTech,,2021-06-08
+Tokelau,Comirnaty,Pfizer BioNTech,2021-02-03,2021-07-20
+Andorra,Comirnaty,Pfizer BioNTech,,2021-01-20
+Bolívia,Comirnaty,Pfizer BioNTech,2021-04-29,2021-04-30
+Montenegro,Comirnaty,Pfizer BioNTech,,2021-05-05
+China,Comirnaty,Pfizer BioNTech,2021-01-25,2021-03-06
+Vietnã,Comirnaty,Pfizer BioNTech,2021-06-12,2021-07-01
+Sri Lanka,Comirnaty,Pfizer BioNTech,2021-05-08,2021-07-07
+Paraguai,Comirnaty,Pfizer BioNTech,,2021-07-12
+Trindade e Tobago,Comirnaty,Pfizer BioNTech,,2021-10-12
+Mônaco,Comirnaty,Pfizer BioNTech,,2021-06-30
+Ilhas Cook,Comirnaty,Pfizer BioNTech,2021-02-03,2021-05-17
+Suíça,Spikevax,Moderna,,2020-12-23
+Paraguai,Spikevax,Moderna,2020-12-29,2021-06-09
+Guadalupe,Spikevax,Moderna,,
+Botsuana,Spikevax,Moderna,2021-04-16,2021-03-26
+Jordânia,Spikevax,Moderna,2020-12-13,2021-01-13
+Bahrein,Spikevax,Moderna,,
+México,Spikevax,Moderna,2021-08-17,2021-08-25
+Tunísia,Spikevax,Moderna,2021-01-11,2021-03-13
+Suriname,Spikevax,Moderna,2021-07-14,2021-07-27
+Guiana,Spikevax,Moderna,,2021-07-03
+Tajiquistão,Spikevax,Moderna,,2021-07-28
+Uzbequistão,Spikevax,Moderna,,2021-07-28
+Argentina,Spikevax,Moderna,2021-07-23,2021-08-02
+Índia,Spikevax,Moderna,2021-06-29,
+Colômbia,Spikevax,Moderna,2021-06-25,2021-07-27
+Chipre,Spikevax,Moderna,,2021-01-20
+Croácia,Spikevax,Moderna,,2020-12-30
+Irlanda,Spikevax,Moderna,,2020-12-30
+Romênia,Spikevax,Moderna,,2021-02-03
+Tchéquia,Spikevax,Moderna,,2020-12-30
+Ruanda,Spikevax,Moderna,2021-07-29,
+Bulgária,Spikevax,Moderna,,2021-01-13
+Dinamarca,Spikevax,Moderna,,2020-12-16
+Finlândia,Spikevax,Moderna,,2020-12-23
+Eslovênia,Spikevax,Moderna,,2021-01-20
+Hungria,Spikevax,Moderna,,2021-01-13
+Letônia,Spikevax,Moderna,,2021-01-13
+Portugal,Spikevax,Moderna,,2020-12-23
+Alemanha,Spikevax,Moderna,,2021-01-13
+Polônia,Spikevax,Moderna,,2020-12-30
+Itália,Spikevax,Moderna,,2021-01-06
+Países Baixos,Spikevax,Moderna,,2021-01-13
+Lituânia,Spikevax,Moderna,,2021-01-13
+Bélgica,Spikevax,Moderna,,2021-01-13
+Islândia,Spikevax,Moderna,,2021-01-13
+Luxemburgo,Spikevax,Moderna,,2021-01-20
+França,Spikevax,Moderna,,2021-01-13
+Espanha,Spikevax,Moderna,,2021-01-13
+Suécia,Spikevax,Moderna,,2021-02-17
+Estados Unidos da America,Spikevax,Moderna,2020-12-18,2020-12-21
+Palestina,Spikevax,Moderna,2021-01-25,2021-02-02
+Estônia,Spikevax,Moderna,,2021-01-20
+Austria,Spikevax,Moderna,,2021-01-13
+Eslováquia,Spikevax,Moderna,,2020-12-30
+Grécia,Spikevax,Moderna,,2020-12-23
+Quênia,Spikevax,Moderna,,
+Uganda,Spikevax,Moderna,,
+Dominica,Spikevax,Moderna,,2022-02-10
+Macedônia,Spikevax,Moderna,,2022-08-10
+Granada,Spikevax,Moderna,,2022-03-23
+Canadá,Spikevax,Moderna,2020-12-23,
+Arábia Saudita,Spikevax,Moderna,2020-12-10,2021-01-06
+Liechtenstein,Spikevax,Moderna,,2021-01-13
+Malta,Spikevax,Moderna,,2021-01-13
+Guiana Francesa,Spikevax,Moderna,,
+Armênia,Spikevax,Moderna,,2021-10-06
+Cabo Verde,Spikevax,Moderna,,
+Egito,Spikevax,Moderna,2020-12-30,2021-01-24
+Líbia,Spikevax,Moderna,2021-02-24,2021-04-11
+Honduras,Spikevax,Moderna,2021-02-17,2021-02-22
+Guatemala,Spikevax,Moderna,2021-02-25,2021-02-25
+Japão,Spikevax,Moderna,2021-05-21,2021-05-24
+Palau,Spikevax,Moderna,2020-12-18,2021-01-03
+Malásia,Spikevax,Moderna,2021-08-05,
+Costa Rica,Spikevax,Moderna,,
+Santa Lúcia,Spikevax,Moderna,,
+Chile,Spikevax,Moderna,2022-02-02,2022-02-02
+Afeganistão,Spikevax,Moderna,,
+Djibouti,Spikevax,Moderna,,
+Moldávia,Spikevax,Moderna,,2021-12-08
+Nepal,Spikevax,Moderna,2021-09-15,2021-12-19
+Quirguistão,Spikevax,Moderna,,2021-12-15
+Bolívia,Spikevax,Moderna,,2022-01-10
+Austrália,Spikevax,Moderna,2021-08-09,2021-09-20
+Camboja,Spikevax,Moderna,2021-08-02,2021-12-16
+Peru,Spikevax,Moderna,,
+Mônaco,Spikevax,Moderna,,2022-03-02
+Catar,Spikevax,Moderna,,
+Israel,Spikevax,Moderna,,2021-03-03
+Reino Unido,Spikevax,Moderna,,2021-01-11
+Sérvia,Spikevax,Moderna,,2021-11-10
+Omã,Spikevax,Moderna,,
+Somália,Spikevax,Moderna,,
+Sudão,Spikevax,Moderna,,
+Síria,Spikevax,Moderna,,
+Emirados Árabes Unidos,Spikevax,Moderna,,
+Iêmen,Spikevax,Moderna,,
+Países Baixos Caribenhos,Spikevax,Moderna,,2021-02-22
+Curaçao,Spikevax,Moderna,,
+Irã,Spikevax,Moderna,,
+Iraque,Spikevax,Moderna,,
+Líbano,Spikevax,Moderna,2020-12-16,2021-02-14
+Camarões,Spikevax,Moderna,,
+Brunei,Spikevax,Moderna,2021-04-09,2021-06-21
+Filipinas,Spikevax,Moderna,2021-05-05,2021-07-01
+Mongólia,Spikevax,Moderna,2021-01-10,
+Noruega,Spikevax,Moderna,,2021-01-06
+Porto Rico,Spikevax,Moderna,,
+Sint Maarten,Spikevax,Moderna,,
+Comunidade das Ilhas Marianas do Norte,Spikevax,Moderna,2020-12-18,2021-01-12
+Bermudas,Spikevax,Moderna,,
+República do Congo,Spikevax,Moderna,2021-03-03,2021-03-23
+Singapura,Spikevax,Moderna,2021-02-03,2021-03-17
+Wallis e Futuna,Spikevax,Moderna,2021-01-06,2021-03-19
+República da Coreia,Spikevax,Moderna,2021-05-21,2021-06-01
+Andorra,Spikevax,Moderna,,2021-07-14
+Ucrânia,Spikevax,Moderna,,2021-07-21
+Ilhas Marshall,Spikevax,Moderna,2020-12-18,2020-12-29
+Estados Federados da Micronésia,Spikevax,Moderna,2020-12-18,2021-01-13
+Samoa Americana,Spikevax,Moderna,2020-12-18,2020-12-23
+Guam,Spikevax,Moderna,2020-12-18,2021-01-29
+Fiji,Spikevax,Moderna,2021-09-01,
+Vietnã,Spikevax,Moderna,2021-06-28,2021-07-01
+Haiti,Spikevax,Moderna,,
+El Salvador,Spikevax,Moderna,2021-06-03,2021-08-02
+Butão,Spikevax,Moderna,2021-06-22,2021-07-20
+Indonésia,Spikevax,Moderna,2021-07-01,2021-07-25
+Kuwait,Spikevax,Moderna,2020-12-13,2020-12-28
+Paquistão,Spikevax,Moderna,2021-01-20,2021-02-03
+Bangladesh,Spikevax,Moderna,2021-06-27,2021-07-13
+Sri Lanka,Spikevax,Moderna,2021-06-28,2021-07-18
+Maldivas,Spikevax,Moderna,2021-06-06,
+Tailândia,Spikevax,Moderna,2021-05-13,2021-11-08
+Turquemenistão,EpiVacCorona,State Research Center of Virology & Biotechnology,,2021-02-24
+Paquistão,Covaxin,Bharat Biotech,,
+República Centro-Africana,Covaxin,Bharat Biotech,2021-02-26,2021-03-19
+Zimbábue,Covaxin,Bharat Biotech,,2021-02-18
+Paraguai,Covaxin,Bharat Biotech,2021-01-03,2021-04-10
+Comores,Covaxin,Bharat Biotech,2021-02-01,2021-04-10
+Ilhas Maurício,Covaxin,Bharat Biotech,2021-03-18,
+Botsuana,Covaxin,Bharat Biotech,2021-04-16,
+Índia,Covaxin,Bharat Biotech,2021-01-03,2021-01-16
+Irã,Covaxin,Bharat Biotech,2021-01-27,2021-02-09
+Nepal,Covaxin,Bharat Biotech,2021-03-19,
+Etiópia,Covaxin,Bharat Biotech,2021-03-03,2021-03-13
+Afeganistão,Covaxin,Bharat Biotech,2021-02-23,2021-02-22
+Bahrein,Covaxin,Bharat Biotech,,
+Djibouti,Covaxin,Bharat Biotech,,
+Egito,Covaxin,Bharat Biotech,,
+Sudão,Covaxin,Bharat Biotech,,
+Síria,Covaxin,Bharat Biotech,,
+Tunísia,Covaxin,Bharat Biotech,,
+Emirados Árabes Unidos,Covaxin,Bharat Biotech,,
+Iêmen,Covaxin,Bharat Biotech,,
+Portugal,Covaxin,Bharat Biotech,,2021-01-06
+Camarões,Covaxin,Bharat Biotech,,
+Omã,Covaxin,Bharat Biotech,,
+Palestina,Covaxin,Bharat Biotech,,
+Catar,Covaxin,Bharat Biotech,,
+Arábia Saudita,Covaxin,Bharat Biotech,,
+Somália,Covaxin,Bharat Biotech,,
+Filipinas,Covaxin,Bharat Biotech,2021-04-19,
+Iraque,Covaxin,Bharat Biotech,,
+Jordânia,Covaxin,Bharat Biotech,,
+Kuwait,Covaxin,Bharat Biotech,,
+Líbano,Covaxin,Bharat Biotech,,
+Líbia,Covaxin,Bharat Biotech,,
+Moldávia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-05-26
+Malta,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-02-24
+Dinamarca,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-01-06
+México,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-05-27,2021-06-16
+Brasil,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-06-23
+Eslováquia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-03-03
+Belize,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-09-01
+Bahamas,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-08-19
+Camboja,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-21,2021-08-01
+Egito,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-12-30,2021-01-24
+Papua-Nova Guiné,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-21,2021-08-28
+Trindade e Tobago,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-10-23
+Iêmen,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-04-20
+Antígua e Barbuda,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-08-27,2021-09-06
+Granada,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-11-12
+Sudão,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-20,2021-03-09
+Somália,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-22,2021-03-16
+Jamaica,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-13,2021-07-14
+Ilhas Virgens Britânicas,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Índia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-08-05,
+Zâmbia,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Nicarágua,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-25,2021-10-08
+Nova Caledônia,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Indonésia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-09-07,2021-10-28
+Senegal,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-20,
+Suíça,Ad26.COV 2-S,Janssen Pharmaceuticals,,2020-12-23
+Namíbia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-08-02,
+Ruanda,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-11,
+Sudão do Sul,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Essuatíni,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Tanzânia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-20,2021-07-28
+Uganda,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Etiópia,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Quênia,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Lesoto,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-07,
+Madagascar,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-21,
+Moçambique,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-26,
+Malawi,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Canadá,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Benin,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Burkina Faso,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-20,
+Botsuana,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-03-26,
+Costa do Marfim,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-01-15,
+Camarões,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-22,
+Barbados,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-10-15
+Liechtenstein,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-10-13
+Guiana,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Santa Lúcia,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Estados Unidos da America,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-03-01
+Jordânia,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-12-13,2021-01-13
+Tailândia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-03-25,
+Camarões,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-01-06,2021-01-28
+Guadalupe,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Austrália,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-25,
+Malásia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-15,
+Vanuatu,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-12-22,2022-01-28
+Omã,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Paquistão,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Emirados Árabes Unidos,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Mônaco,Ad26.COV 2-S,Janssen Pharmaceuticals,,2022-04-27
+Bahrein,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-11-03,2020-11-04
+Líbia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-24,2021-04-11
+Brunei,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Palau,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-03-21
+Porto Rico,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Irã,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Iraque,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Líbano,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-12-16,2021-02-14
+Países Baixos,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-21
+Luxemburgo,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-14
+África do Sul,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-02-17
+Nova Zelândia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-07,
+Filipinas,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-04-19,2021-07-19
+República da Coreia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-04-07,2021-06-10
+Bulgária,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-05-12
+Estônia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+Islândia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+Noruega,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-03-03
+Polônia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-01-06
+Hungria,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-05-05
+Finlândia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2020-12-23
+Aruba,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Guiné,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-03-22,2021-03-05
+Comunidade das Ilhas Marianas do Norte,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-03-19
+Irlanda,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-01-06
+Bélgica,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+Letônia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-07
+Eslovênia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+Romênia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-05-05
+Polinésia Francesa,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-03-25,2021-05-03
+Arábia Saudita,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-12-10,2021-01-06
+Ucrânia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-05-19
+Alemanha,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-21
+França,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+Grécia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-01-06
+Chipre,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+Espanha,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-21
+Lituânia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-21
+Estados Federados da Micronésia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-04-09
+Portugal,Ad26.COV 2-S,Janssen Pharmaceuticals,,2020-12-30
+Austria,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-03-17
+Itália,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-01-06
+Croácia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-02-03
+Tchéquia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-03-03
+Bolívia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-10-07
+Haiti,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Honduras,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-22
+Samoa Americana,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-03-16
+Guam,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-03-15
+Ilhas Marshall,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-04-08
+Bangladesh,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-15,
+Maldivas,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-06,
+Nepal,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-30,2021-07-19
+Afeganistão,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-23,2021-02-22
+Síria,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-03,2021-04-01
+República Democrática Popular do Laos,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-23,2021-07-25
+Djibouti,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-22,2021-03-15
+Kuwait,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-12-13,2020-12-28
+Palestina,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-01-25,2021-02-02
+Catar,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+Tunísia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-01-11,2021-03-13
+Colômbia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-03-25,2021-06-23
+Geórgia,Coronavac,Sinovac,,2021-05-26
+Djibouti,Coronavac,Sinovac,2021-02-22,2021-03-15
+Botsuana,Coronavac,Sinovac,2021-04-08,2021-03-26
+Timor-Leste,Coronavac,Sinovac,2021-01-06,2021-06-14
+Armênia,Coronavac,Sinovac,,2021-06-16
+Cazaquistão,Coronavac,Sinovac,,2021-05-05
+Tailândia,Coronavac,Sinovac,2021-02-22,2021-02-28
+Azerbaijão,Coronavac,Sinovac,,2021-01-20
+República Bolivariana da Venezuela,Coronavac,Sinovac,,
+Chile,Coronavac,Sinovac,2021-01-20,2021-02-03
+Brasil,Coronavac,Sinovac,2021-01-17,2021-01-17
+Indonésia,Coronavac,Sinovac,2021-01-11,2021-01-13
+Filipinas,Coronavac,Sinovac,2021-02-22,2021-03-01
+Colômbia,Coronavac,Sinovac,2021-02-04,2021-02-22
+Equador,Coronavac,Sinovac,2021-03-06,2021-03-08
+Iêmen,Coronavac,Sinovac,2021-02-27,2021-04-20
+Argélia,Coronavac,Sinovac,2021-03-31,
+Ruanda,Coronavac,Sinovac,2021-07-17,
+Uganda,Coronavac,Sinovac,,
+Uzbequistão,Coronavac,Sinovac,,2021-10-20
+Portugal,Coronavac,Sinovac,,2020-12-23
+Afeganistão,Coronavac,Sinovac,,
+Bahrein,Coronavac,Sinovac,,
+Irã,Coronavac,Sinovac,,
+Uruguai,Coronavac,Sinovac,2021-02-18,2021-02-27
+Malásia,Coronavac,Sinovac,2021-03-02,2021-03-18
+Emirados Árabes Unidos,Coronavac,Sinovac,,
+El Salvador,Coronavac,Sinovac,2021-03-09,2021-03-28
+Paraguai,Coronavac,Sinovac,2021-02-06,2021-03-10
+República Dominicana,Coronavac,Sinovac,2020-12-20,2021-02-24
+México,Coronavac,Sinovac,2021-02-09,2021-02-22
+Hungria,Coronavac,Sinovac,,2021-02-15
+Jordânia,Coronavac,Sinovac,2020-12-13,2021-01-13
+Kuwait,Coronavac,Sinovac,,
+Líbano,Coronavac,Sinovac,,
+Camarões,Coronavac,Sinovac,,
+Catar,Coronavac,Sinovac,,
+Arábia Saudita,Coronavac,Sinovac,,
+Ucrânia,Coronavac,Sinovac,,2021-04-14
+Benin,Coronavac,Sinovac,2021-02-26,2021-03-29
+Guiné Equatorial,Coronavac,Sinovac,,2021-02-12
+Camboja,Coronavac,Sinovac,2021-02-12,2021-04-01
+China,Coronavac,Sinovac,2020-07-22,2020-07-22
+Iraque,Coronavac,Sinovac,,
+Albânia,Coronavac,Sinovac,,2021-03-24
+Líbia,Coronavac,Sinovac,2021-02-24,2021-04-11
+Maldivas,Coronavac,Sinovac,2021-03-14,
+Guiné,Coronavac,Sinovac,2021-04-01,2021-03-05
+Zimbábue,Coronavac,Sinovac,,2021-02-18
+Paquistão,Coronavac,Sinovac,2021-01-20,2021-02-03
+República Democrática Popular do Laos,Coronavac,Sinovac,2021-06-16,2021-10-05
+Egito,Coronavac,Sinovac,2020-12-30,2021-01-24
+Tunísia,Coronavac,Sinovac,2021-01-11,2021-03-13
+Somália,Coronavac,Sinovac,,
+Sudão,Coronavac,Sinovac,2021-02-20,2021-03-09
+Moldávia,Coronavac,Sinovac,,2021-05-12
+Macedônia,Coronavac,Sinovac,,2021-06-16
+Tajiquistão,Coronavac,Sinovac,,2021-06-09
+Omã,Coronavac,Sinovac,2021-02-14,2020-12-29
+Palestina,Coronavac,Sinovac,2021-01-25,2021-02-02
+Bangladesh,Coronavac,Sinovac,2021-06-06,2021-12-11
+Síria,Coronavac,Sinovac,2021-02-03,2021-04-01
+Filipinas,NUVAXOVID,Novavax,,
+República da Coreia,NUVAXOVID,Novavax,,
+Nova Zelândia,NUVAXOVID,Novavax,,
+Austrália,NUVAXOVID,Novavax,,
+Mônaco,NUVAXOVID,Novavax,,2022-03-30
+Portugal,NUVAXOVID,Novavax,,2021-01-20
+Japão,NUVAXOVID,Novavax,,
+Suíça,NUVAXOVID,Novavax,,2022-07-20
+Estados Unidos da America,NUVAXOVID,Novavax,,
+Guadalupe,NUVAXOVID,Novavax,,
+Porto Rico,NUVAXOVID,Novavax,,
+Islândia,NUVAXOVID,Novavax,,2022-08-03
+Luxemburgo,NUVAXOVID,Novavax,,2022-03-02
+Países Baixos,NUVAXOVID,Novavax,,2022-03-16
+Polônia,NUVAXOVID,Novavax,,2021-06-09
+Eslováquia,NUVAXOVID,Novavax,,2022-03-09
+Eslovênia,NUVAXOVID,Novavax,,2022-03-02
+Suécia,NUVAXOVID,Novavax,,2022-03-09
+França,NUVAXOVID,Novavax,,2022-02-23
+Alemanha,NUVAXOVID,Novavax,,2022-02-23
+Grécia,NUVAXOVID,Novavax,,2021-10-13
+Irlanda,NUVAXOVID,Novavax,,2022-03-16
+Itália,NUVAXOVID,Novavax,,2022-03-02
+Letônia,NUVAXOVID,Novavax,,2022-03-02
+Indonésia,NUVAXOVID,Novavax,2021-11-01,2021-12-06
+Austria,NUVAXOVID,Novavax,,2022-02-23
+Croácia,NUVAXOVID,Novavax,,2022-03-02
+Chipre,NUVAXOVID,Novavax,,2022-03-09
+Tchéquia,NUVAXOVID,Novavax,,2022-03-02
+Estônia,NUVAXOVID,Novavax,,2022-03-09
+Honduras,Covishield,Serum Institute of India,2021-03-04,2021-05-22
+Burkina Faso,Covishield,Serum Institute of India,2021-05-21,2021-06-02
+Fiji,Covishield,Serum Institute of India,,2021-04-06
+Tajiquistão,Covishield,Serum Institute of India,,2021-03-24
+El Salvador,Covishield,Serum Institute of India,2021-01-25,2021-04-12
+Albânia,Covishield,Serum Institute of India,,2021-04-21
+Seicheles,Covishield,Serum Institute of India,,2021-01-10
+Afeganistão,Covishield,Serum Institute of India,2021-02-23,2021-02-22
+Sudão,Covishield,Serum Institute of India,2021-02-20,2021-03-09
+Paquistão,Covishield,Serum Institute of India,2021-01-20,2021-02-03
+Mongólia,Covishield,Serum Institute of India,2021-01-10,2021-02-23
+Papua-Nova Guiné,Covishield,Serum Institute of India,2021-03-02,2021-05-05
+Gana,Covishield,Serum Institute of India,2021-02-12,2021-03-02
+Sri Lanka,Covishield,Serum Institute of India,2021-01-22,2021-01-29
+Mianmar,Covishield,Serum Institute of India,2021-01-20,2021-01-27
+Maldivas,Covishield,Serum Institute of India,2021-01-29,2021-02-01
+Bangladesh,Covishield,Serum Institute of India,2021-01-07,2021-01-27
+Índia,Covishield,Serum Institute of India,2021-01-03,2021-01-16
+Nepal,Covishield,Serum Institute of India,2021-01-15,2021-01-27
+Butão,Covishield,Serum Institute of India,2021-01-21,2021-03-27
+Síria,Covishield,Serum Institute of India,2021-02-03,2021-04-01
+Guiana,Covishield,Serum Institute of India,,2021-02-11
+Barbados,Covishield,Serum Institute of India,,2021-01-08
+Dominica,Covishield,Serum Institute of India,2021-02-09,2021-02-12
+República Dominicana,Covishield,Serum Institute of India,2020-12-20,2021-02-16
+Quênia,Covishield,Serum Institute of India,,2021-03-05
+Lesoto,Covishield,Serum Institute of India,2021-02-25,2021-03-10
+Etiópia,Covishield,Serum Institute of India,2021-03-03,2021-03-13
+Jamaica,Covishield,Serum Institute of India,2021-02-15,2021-03-10
+Bahamas,Covishield,Serum Institute of India,2021-03-05,2021-03-14
+Serra Leoa,Covishield,Serum Institute of India,2021-03-04,2021-03-15
+Nigéria,Covishield,Serum Institute of India,2021-03-04,2021-03-05
+Ilhas Maurício,Covishield,Serum Institute of India,2021-01-21,2021-01-26
+Costa do Marfim,Covishield,Serum Institute of India,2021-02-13,2021-03-01
+Ruanda,Covishield,Serum Institute of India,2021-02-23,2021-03-05
+Togo,Covishield,Serum Institute of India,,2021-03-10
+Malawi,Covishield,Serum Institute of India,,2021-03-11
+Djibouti,Covishield,Serum Institute of India,2021-02-22,2021-03-15
+República Democrática Popular do Laos,Covishield,Serum Institute of India,2021-02-22,2021-04-02
+Camboja,Covishield,Serum Institute of India,2021-02-12,2021-03-04
+Angola,Covishield,Serum Institute of India,,2021-03-10
+Gâmbia,Covishield,Serum Institute of India,2021-02-12,2021-03-10
+Uganda,Covishield,Serum Institute of India,,2021-03-10
+Canadá,Covishield,Serum Institute of India,,
+Bahrein,Covishield,Serum Institute of India,,2020-12-25
+Omã,Covishield,Serum Institute of India,,
+Emirados Árabes Unidos,Covishield,Serum Institute of India,,
+São Vicente e Granadinas,Covishield,Serum Institute of India,2021-02-11,2021-02-14
+Somália,Covishield,Serum Institute of India,2021-02-22,2021-03-16
+Santa Lúcia,Covishield,Serum Institute of India,2021-02-15,2021-02-17
+Granada,Covishield,Serum Institute of India,2021-02-12,2021-02-15
+Trindade e Tobago,Covishield,Serum Institute of India,2021-02-15,2021-02-17
+Cabo Verde,Covishield,Serum Institute of India,2021-02-25,2021-03-18
+Timor-Leste,Covishield,Serum Institute of India,2021-02-23,2021-04-07
+Iêmen,Covishield,Serum Institute of India,2021-02-27,2021-04-20
+Belize,Covishield,Serum Institute of India,2021-02-15,2021-03-01
+Suriname,Covishield,Serum Institute of India,2021-02-15,2021-02-23
+Antígua e Barbuda,Covishield,Serum Institute of India,2021-04-05,2021-07-12
+Guatemala,Covishield,Serum Institute of India,2021-02-18,2021-03-03
+Argentina,Covishield,Serum Institute of India,2020-12-30,2021-02-21
+Brasil,Covishield,Serum Institute of India,2021-01-17,2021-01-17
+Níger,Covishield,Serum Institute of India,2021-03-04,2021-03-29
+Senegal,Covishield,Serum Institute of India,2021-02-16,2021-02-23
+Ilhas Salomão,Covishield,Serum Institute of India,2021-02-22,2021-03-23
+Bolívia,Covishield,Serum Institute of India,,
+Essuatíni,Covishield,Serum Institute of India,,2021-03-19
+São Cristóvão e Névis,Covishield,Serum Institute of India,2021-01-29,2021-02-22
+São Tomé e Príncipe,Covishield,Serum Institute of India,2021-02-21,2021-03-15
+Camarões,Covishield,Serum Institute of India,2021-03-04,2021-04-12
+Guiné,Covishield,Serum Institute of India,2021-02-18,2021-03-05
+República Centro-Africana,Covishield,Serum Institute of India,2021-02-26,2021-03-19
+República Democrática do Congo,Covishield,Serum Institute of India,2021-02-26,2021-04-19
+República do Congo,Covishield,Serum Institute of India,2021-03-03,2021-03-23
+Benin,Covishield,Serum Institute of India,2021-02-24,2021-03-29
+Guiné-Bissau,Covishield,Serum Institute of India,,2021-04-02
+Botsuana,Covishield,Serum Institute of India,2021-02-26,2021-03-26
+Sudão do Sul,Covishield,Serum Institute of India,2021-03-01,2021-04-06
+Mali,Covishield,Serum Institute of India,2021-02-19,2021-03-31
+Libéria,Covishield,Serum Institute of India,2021-03-15,2021-04-01
+Zâmbia,Covishield,Serum Institute of India,2021-02-28,2021-04-14
+Mauritânia,Covishield,Serum Institute of India,,2021-03-26
+Nauru,Covishield,Serum Institute of India,2021-03-02,2021-06-01
+Tailândia,Covishield,Serum Institute of India,2021-01-21,2021-03-16
+Argélia,Covishield,Serum Institute of India,2021-02-01,
+Nicarágua,Covishield,Serum Institute of India,2021-02-15,2021-04-06
+Madagascar,Covishield,Serum Institute of India,2021-03-26,2021-05-10
+Uzbequistão,Covishield,Serum Institute of India,,2021-04-28
+Ucrânia,Covishield,Serum Institute of India,,2021-02-24
+Comores,Covishield,Serum Institute of India,,2021-04-10
+Namíbia,Covishield,Serum Institute of India,2021-03-05,2021-03-19
+Moçambique,Covishield,Serum Institute of India,2021-03-04,2021-03-08
+Nicarágua,Soberana Plus,Instituto Finlay de Vacunas,,2021-10-26
+Cuba,Soberana Plus,Instituto Finlay de Vacunas,,
+Irã,Sputnik-Light,Gamaleya Research Institute,,
+Iraque,Sputnik-Light,Gamaleya Research Institute,,
+Jordânia,Sputnik-Light,Gamaleya Research Institute,,
+Kuwait,Sputnik-Light,Gamaleya Research Institute,,
+Líbano,Sputnik-Light,Gamaleya Research Institute,2020-12-16,2021-02-14
+Líbia,Sputnik-Light,Gamaleya Research Institute,,
+Nicarágua,Sputnik-Light,Gamaleya Research Institute,,2021-10-25
+Djibouti,Sputnik-Light,Gamaleya Research Institute,,
+Egito,Sputnik-Light,Gamaleya Research Institute,,
+Bahrein,Sputnik-Light,Gamaleya Research Institute,2020-11-03,2020-11-04
+Palestina,Sputnik-Light,Gamaleya Research Institute,2021-01-25,2021-02-02
+Síria,Sputnik-Light,Gamaleya Research Institute,2021-02-03,2021-04-01
+República Democrática Popular do Laos,Sputnik-Light,Gamaleya Research Institute,2021-10-01,2021-09-29
+República Bolivariana da Venezuela,Sputnik-Light,Gamaleya Research Institute,,
+Filipinas,Sputnik-Light,Gamaleya Research Institute,2021-08-20,2021-08-23
+Armênia,Sputnik-Light,Gamaleya Research Institute,,2022-02-09
+Azerbaijão,Sputnik-Light,Gamaleya Research Institute,,2022-03-02
+Bielorrússia,Sputnik-Light,Gamaleya Research Institute,,2021-10-06
+Afeganistão,Sputnik-Light,Gamaleya Research Institute,,
+Sudão,Sputnik-Light,Gamaleya Research Institute,,
+Tunísia,Sputnik-Light,Gamaleya Research Institute,2021-01-11,2021-03-13
+Emirados Árabes Unidos,Sputnik-Light,Gamaleya Research Institute,,
+Iêmen,Sputnik-Light,Gamaleya Research Institute,,
+São Vicente e Granadinas,Sputnik-Light,Gamaleya Research Institute,,
+Uzbequistão,Sputnik-Light,Gamaleya Research Institute,,2021-12-15
+Camarões,Sputnik-Light,Gamaleya Research Institute,,
+Omã,Sputnik-Light,Gamaleya Research Institute,,
+Paquistão,Sputnik-Light,Gamaleya Research Institute,,
+Catar,Sputnik-Light,Gamaleya Research Institute,,
+Arábia Saudita,Sputnik-Light,Gamaleya Research Institute,,
+Somália,Sputnik-Light,Gamaleya Research Institute,,
