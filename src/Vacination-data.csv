@@ -1,0 +1,1072 @@
+,pais,nome_produto,empresa,data_autorizada_vacina,comeco_vacinacao
+0,"Santa Helena, Ascensão e Tristão da Cunha",AZD1222,AstraZeneca,,
+1,Groelândia,mRNA-1273,Moderna,,
+2,Ilhas Feroé,mRNA-1273,Moderna,,
+3,Ilhas Feroé,Comirnaty,Pfizer BioNTech,,
+4,Bósnia e Herzegovina,AZD1222,AstraZeneca,,
+5,Bósnia e Herzegovina,Comirnaty,Pfizer BioNTech,,
+6,Jersey,mRNA-1273,Moderna,,
+7,Jersey,AZD1222,AstraZeneca,,
+8,Jersey,Comirnaty,Pfizer BioNTech,,
+9,Guernsey,mRNA-1273,Moderna,,
+10,Guernsey,AZD1222,AstraZeneca,,
+11,Guernsey,Comirnaty,Pfizer BioNTech,,
+12,Bósnia e Herzegovina,Coronavac,Sinovac,,
+13,Gibraltar,AZD1222,AstraZeneca,,
+14,Gibraltar,Comirnaty,Pfizer BioNTech,,
+15,Ilha de Man,mRNA-1273,Moderna,,
+16,Ilha de Man,AZD1222,AstraZeneca,,
+17,Ilha de Man,Comirnaty,Pfizer BioNTech,,
+18,Ilhas Malvinas,AZD1222,AstraZeneca,,
+19,Federação Russa,EpiVacCorona,State Research Center of Virology & Biotechnology,,
+20,Turquía,Comirnaty,Pfizer BioNTech,,
+21,Turquía,Coronavac,Sinovac,,
+22,Turquía,,,,
+23,Uzbequistão,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,,2021-04-28
+24,China,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,2021-03-17,2021-03-17
+25,Turquemenistão,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,,2021-02-24
+26,China,LV-SMENP-DC,Shenzhen GenoImmune Medical Institute,2021-05-14,2021-06-01
+27,Austria,VLA2001,Valneva,,2022-08-24
+28,Alemanha,VLA2001,Valneva,,2022-09-14
+29,República Bolivariana da Venezuela,Soberana-02,Instituto Finlay de Vacunas,,
+30,Cuba,Soberana-02,Instituto Finlay de Vacunas,,
+31,Irã,Soberana-02,Instituto Finlay de Vacunas,,
+32,Nicarágua,Soberana-02,Instituto Finlay de Vacunas,,2021-10-25
+33,China,Covidful,Insitute of Medical Biology,2021-06-09,2021-06-09
+34,Azerbaijão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-05-19
+35,Quirguistão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-04-21
+36,Eslováquia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-01-20
+37,Armênia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-06-16
+38,Omã,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-14,2020-12-29
+39,Maldivas,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-30,
+40,Antígua e Barbuda,Gam-Covid-Vac,Gamaleya Research Institute,2021-07-24,2021-08-16
+41,Tajiquistão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-08-18
+42,República Democrática Popular do Laos,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-03,2021-02-09
+43,Mongólia,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-06,2021-03-19
+44,Filipinas,Gam-Covid-Vac,Gamaleya Research Institute,2021-03-19,2021-05-04
+45,Hungria,Gam-Covid-Vac,Gamaleya Research Institute,,2021-02-10
+46,Bielorrússia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-02-03
+47,Paraguai,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-22,2021-02-22
+48,Argentina,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-23,2020-12-29
+49,Bolívia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-01-30
+50,Irã,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-27,2021-02-09
+51,Palestina,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-25,2021-02-02
+52,Tunísia,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-11,2021-03-13
+53,Paquistão,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-20,2021-02-03
+54,San Marino,Gam-Covid-Vac,Gamaleya Research Institute,,2021-02-24
+55,Montenegro,Gam-Covid-Vac,Gamaleya Research Institute,,2021-02-24
+56,Gabão,Gam-Covid-Vac,Gamaleya Research Institute,,
+57,Ruanda,Gam-Covid-Vac,Gamaleya Research Institute,2021-03-31,
+58,Seychelles,Gam-Covid-Vac,Gamaleya Research Institute,,
+59,Zimbábue,Gam-Covid-Vac,Gamaleya Research Institute,,
+60,República Bolivariana da Venezuela,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-01,2021-02-22
+61,Iraque,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-29,2021-03-02
+62,México,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-09,2021-02-24
+63,Jordânia,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-13,2021-01-13
+64,Djibouti,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-22,2021-03-15
+65,Líbano,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-16,2021-02-14
+66,Cazaquistão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-04-07
+67,Macedônia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-03-10
+68,São Vicente e Granadinas,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-30,2021-02-01
+69,Argélia,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-10,2021-01-30
+70,Afeganistão	,Gam-Covid-Vac,Gamaleya Research Institute,,
+71,Nicarágua,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-02,2021-03-03
+72,Sudão,Gam-Covid-Vac,Gamaleya Research Institute,,
+73,Iêmen,Gam-Covid-Vac,Gamaleya Research Institute,,
+74,Emirados Árabes Unidos,Gam-Covid-Vac,Gamaleya Research Institute,,
+75,Egito,Gam-Covid-Vac,Gamaleya Research Institute,2020-12-30,2021-01-24
+76,Bahrein,Gam-Covid-Vac,Gamaleya Research Institute,2020-11-03,2020-11-04
+77,Camarões,Gam-Covid-Vac,Gamaleya Research Institute,,
+78,Sri Lanka,Gam-Covid-Vac,Gamaleya Research Institute,2021-03-04,2021-05-06
+79,Guiana,Gam-Covid-Vac,Gamaleya Research Institute,2021-04-02,2021-04-02
+80,Kuwait,Gam-Covid-Vac,Gamaleya Research Institute,,
+81,Catar,Gam-Covid-Vac,Gamaleya Research Institute,,
+82,Arábia Saudita,Gam-Covid-Vac,Gamaleya Research Institute,,
+83,Somália,Gam-Covid-Vac,Gamaleya Research Institute,,
+84,Sérvia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-01-06
+85,Turquemenistão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-02-24
+86,República do Congo,Gam-Covid-Vac,Gamaleya Research Institute,2021-03-03,2021-03-23
+87,Guiné,Gam-Covid-Vac,Gamaleya Research Institute,2021-01-27,2021-03-05
+88,Vietnã,Gam-Covid-Vac,Gamaleya Research Institute,2021-03-23,2021-08-01
+89,Malásia,Gam-Covid-Vac,Gamaleya Research Institute,,
+90,Gana,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-09,2021-03-02
+91,Costa do Marfim,Gam-Covid-Vac,Gamaleya Research Institute,,2021-03-01
+92,Síria,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-03,2021-04-01
+93,Honduras,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-19,2021-04-22
+94,Índia,Gam-Covid-Vac,Gamaleya Research Institute,2021-04-12,2021-05-14
+95,Nepal,Gam-Covid-Vac,Gamaleya Research Institute,2021-04-20,
+96,Líbia,Gam-Covid-Vac,Gamaleya Research Institute,2021-02-24,2021-04-11
+97,Bangladesh,Gam-Covid-Vac,Gamaleya Research Institute,2021-04-27,
+98,Moldávia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-05-05
+99,Albânia,Gam-Covid-Vac,Gamaleya Research Institute,,2021-03-24
+100,Uzbequistão,Gam-Covid-Vac,Gamaleya Research Institute,,2021-04-28
+101,Guatemala,Gam-Covid-Vac,Gamaleya Research Institute,,2021-05-17
+102,Cazaquistão,QazVac,Research Institute for Biological Safety Problems,,2021-04-28
+103,Turquemenistão,QazVac,Research Institute for Biological Safety Problems,,2021-02-24
+104,Quirguistão,QazVac,Research Institute for Biological Safety Problems,,2021-09-29
+105,Chade,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-07,2021-06-04
+106,Quirguistão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-31
+107,Vanuatu,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-02,2021-06-15
+108,Vietnã,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-03,2021-07-10
+109,Myanmar,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-12,2021-06-01
+110,Costa do Marfim,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-10,
+111,Quiribati,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-29,2021-09-03
+112,Burundi,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-09-29,2021-10-18
+113,Líbia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-24,2021-04-11
+114,Armênia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-08-18
+115,Butão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-16,2021-07-20
+116,Tunísia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-11,2021-03-13
+117,Lesoto,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+118,Madagascar,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-08-05,
+119,Ruanda,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-07-30,
+120,Tanzânia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-08-08,
+121,Zâmbia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+122,Singapura,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-08-30
+123,El Salvador,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-03,2021-06-22
+124,Burkina Faso,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-09-20,
+125,Cabo Verde,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+126,Quênia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+127,Gâmbia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-10
+128,Líbano,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-16,2021-02-14
+129,Djibouti,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-22,2021-03-15
+130,Hungria,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-02-24
+131,Montenegro,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-10
+132,Cambodja,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-04,2021-02-10
+133,República Democrática Popular do Laos,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-16,2020-11-25
+134,República Bolivariana da Venezuela,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-12,2021-03-08
+135,Peru,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-26,2021-02-09
+136,Seychelles,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-01-10
+137,Guiné Equatorial,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-01,2021-02-12
+138,Iraque,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-29,2021-03-02
+139,Irã,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-27,2021-02-09
+140,Bahrein,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-11-03,2020-11-04
+141,Paquistão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-20,2021-02-03
+142,Camarões,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-06,2021-01-28
+143,Filipinas,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-07,2021-08-30
+144,Jamaica,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-11-12,2021-12-13
+145,Malásia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-07-16,
+146,Portugal,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2020-12-23
+147,Jordânia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-13,2021-01-13
+148,Egito,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-30,2021-01-24
+149,Emirados Árabes Unidos,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+150,Palestina,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-25,2021-02-02
+151,Kuwait,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-13,2020-12-28
+152,Mongólia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-09,2021-03-10
+153,Bolívia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-05-02
+154,Dominica,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-11
+155,Paraguai,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-12-30,2021-03-15
+156,Arábia Saudita,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+157,Iêmen,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+158,Moçambique,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-18,
+159,Argentina,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-21,2021-03-02
+160,Guiana,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-25,2021-03-02
+161,Maldivas,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-17,2021-03-22
+162,Ilhas Salomão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-12,2021-05-21
+163,Moldávia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-24
+164,Sri Lanka,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-08,2021-04-05
+165,Nepal,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-16,2021-04-07
+166,Omã,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+167,Catar,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+168,Guiné,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-12,2021-03-05
+169,Ilhas Maurício,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-18,
+170,China,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-07-22,2020-07-22
+171,Afeganistão	,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-23,2021-02-22
+172,Papua-Nova Guiné,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-25,2021-06-28
+173,Brunei,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-03,2021-04-03
+174,Mauritânia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-26
+175,Zimbábue,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+176,Namíbia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-19
+177,Comores,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-01,2021-04-10
+178,República do Congo,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-03,2021-03-23
+179,Níger,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-23,2021-03-29
+180,Etiópia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-05,2021-03-13
+181,Síria,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-03,2021-04-01
+182,Sérvia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-01-20
+183,Argélia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-10,
+184,Turquemenistão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-02-24
+185,Gabão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-23
+186,Cazaquistão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-05-05
+187,Indonésia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-04-29,2021-05-18
+188,Guiné-Bissau,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-04-02
+189,	Serra Leoa,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-15
+190,Senegal,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-23,2021-02-23
+191,Camarões,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-04-01,2021-04-12
+192,Somália,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-22,2021-03-16
+193,Sudão,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-20,2021-03-09
+194,Bangladesh,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-04-29,2021-05-25
+195,Macedônia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-04-21
+196,Geórgia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-05-05
+197,Bielorrússia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-03-24
+198,Tailândia,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-28,2021-06-25
+199,Antígua e Barbuda,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+200,Barbados,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,2021-06-30
+201,Suriname,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-28,2021-07-10
+202,Trindade e Tobago,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),,
+203,Belize,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-17,2021-05-18
+204,Índia,ZyCov-D,Zydus Cadila,2021-08-20,
+205,Índia,Corbevax,Biological E,,2022-03-16
+206,Nicarágua,CIGB-66,Center for Genetic Engineering and Biotechnology,,2021-10-25
+207,República Bolivariana da Venezuela,CIGB-66,Center for Genetic Engineering and Biotechnology,,
+208,Vietnã,CIGB-66,Center for Genetic Engineering and Biotechnology,2021-09-17,2021-10-17
+209,Cuba,CIGB-66,Center for Genetic Engineering and Biotechnology,,
+210,Armênia,Vaxzevria,AstraZeneca,,2021-06-16
+211,Ilhas Salomão,Vaxzevria,AstraZeneca,2021-05-26,2021-08-27
+212,Ilhas Pitcairn,Vaxzevria,AstraZeneca,2021-05-17,2021-05-17
+213,Bangladesh,Vaxzevria,AstraZeneca,2021-06-23,
+214,Nepal,Vaxzevria,AstraZeneca,2021-06-30,
+215,Cambodja,Vaxzevria,AstraZeneca,2021-07-15,2021-07-25
+216,Nicarágua,Vaxzevria,AstraZeneca,2021-02-15,2021-08-04
+217,El Salvador,Vaxzevria,AstraZeneca,2020-12-30,2021-02-17
+218,Ucrânia,Vaxzevria,AstraZeneca,,2021-04-28
+219,Palestina,Vaxzevria,AstraZeneca,2021-01-25,2021-02-02
+220,Sri Lanka,Vaxzevria,AstraZeneca,2021-07-09,
+221,República Democrática Popular do Laos,Vaxzevria,AstraZeneca,,2021-08-04
+222,Quirguistão,Vaxzevria,AstraZeneca,,2021-07-14
+223,Chipre,Vaxzevria,AstraZeneca,,2021-02-10
+224,Bélgica,Vaxzevria,AstraZeneca,,2021-02-10
+225,Portugal,Vaxzevria,AstraZeneca,,2020-12-30
+226,Países Baixos,Vaxzevria,AstraZeneca,,2021-01-06
+227,Polônia,Vaxzevria,AstraZeneca,,2021-01-06
+228,Tchéquia,Vaxzevria,AstraZeneca,,2021-02-03
+229,Suécia,Vaxzevria,AstraZeneca,,2021-02-10
+230,Hungria,Vaxzevria,AstraZeneca,,2021-02-10
+231,Romênia,Vaxzevria,AstraZeneca,,2021-02-17
+232,Lituânia,Vaxzevria,AstraZeneca,,2021-02-10
+233,Espanha,Vaxzevria,AstraZeneca,,2021-02-10
+234,Austria,Vaxzevria,AstraZeneca,,2021-02-10
+235,Letônia,Vaxzevria,AstraZeneca,,2021-02-10
+236,Itália,Vaxzevria,AstraZeneca,,2021-01-13
+237,Eslovênia,Vaxzevria,AstraZeneca,,2021-02-10
+238,França,Vaxzevria,AstraZeneca,,2021-02-03
+239,Islândia,Vaxzevria,AstraZeneca,,2021-02-10
+240,Bulgária,Vaxzevria,AstraZeneca,,2021-02-03
+241,Luxemburgo,Vaxzevria,AstraZeneca,,2021-02-10
+242,Irlanda,Vaxzevria,AstraZeneca,,2021-01-13
+243,Estônia,Vaxzevria,AstraZeneca,,2021-02-17
+244,Alemanha,Vaxzevria,AstraZeneca,,2021-02-10
+245,Croácia,Vaxzevria,AstraZeneca,,2021-01-13
+246,Finlândia,Vaxzevria,AstraZeneca,,2020-12-30
+247,Egito,Vaxzevria,AstraZeneca,2020-12-30,2021-01-24
+248,Camarões,Vaxzevria,AstraZeneca,2021-01-06,2021-01-28
+249,Filipinas,Vaxzevria,AstraZeneca,2021-01-28,2021-03-07
+250,Dinamarca,Vaxzevria,AstraZeneca,,2020-12-30
+251,Eslováquia,Vaxzevria,AstraZeneca,,2021-01-13
+252,Grécia,Vaxzevria,AstraZeneca,,2020-12-23
+253,Ilhas Virgens Britânicas,Vaxzevria,AstraZeneca,,2021-02-11
+254,Montserrat,Vaxzevria,AstraZeneca,,2021-02-08
+255,Anguilla,Vaxzevria,AstraZeneca,2020-12-01,2021-02-05
+256,Omã,Vaxzevria,AstraZeneca,2021-02-14,2020-12-29
+257,Irã,Vaxzevria,AstraZeneca,2021-01-27,2021-02-09
+258,Jordânia,Vaxzevria,AstraZeneca,2020-12-13,2021-01-13
+259,Malta,Vaxzevria,AstraZeneca,,2020-12-30
+260,Canadá,Vaxzevria,AstraZeneca,,
+261,Benin,Vaxzevria,AstraZeneca,,
+262,Israel,Vaxzevria,AstraZeneca,,2021-10-20
+263,Bolívia,Vaxzevria,AstraZeneca,,2021-03-22
+264,São Vicente e Granadinas,Vaxzevria,AstraZeneca,,
+265,Vietnã,Vaxzevria,AstraZeneca,2021-02-01,2021-03-08
+266,Fiji,Vaxzevria,AstraZeneca,2021-02-22,2021-03-07
+267,Líbano,Vaxzevria,AstraZeneca,2020-12-16,2021-02-14
+268,Kuwait,Vaxzevria,AstraZeneca,2020-12-13,2020-12-28
+269,Tunísia,Vaxzevria,AstraZeneca,2021-01-11,2021-03-13
+270,Arábia Saudita,Vaxzevria,AstraZeneca,2020-12-10,2021-01-06
+271,Djibouti,Vaxzevria,AstraZeneca,2021-02-22,2021-03-15
+272,Iraque,Vaxzevria,AstraZeneca,2020-12-29,2021-03-02
+273,Líbia,Vaxzevria,AstraZeneca,2021-02-24,2021-04-11
+274,Japão,Vaxzevria,AstraZeneca,2021-05-21,2021-08-21
+275,Moldávia,Vaxzevria,AstraZeneca,,2021-03-03
+276,México,Vaxzevria,AstraZeneca,2021-01-04,2021-02-15
+277,Papua-Nova Guiné,Vaxzevria,AstraZeneca,2021-03-18,2021-03-30
+278,Mongólia,Vaxzevria,AstraZeneca,2021-01-10,2021-03-19
+279,Paraguai,Vaxzevria,AstraZeneca,2020-12-30,2021-03-23
+280,Reino Unido,Vaxzevria,AstraZeneca,,2021-02-08
+281,Belize,Vaxzevria,AstraZeneca,2021-02-15,2021-04-07
+282,Afeganistão	,Vaxzevria,AstraZeneca,2021-02-23,2021-02-22
+283,Emirados Árabes Unidos,Vaxzevria,AstraZeneca,,
+284,Catar,Vaxzevria,AstraZeneca,,
+285,Geórgia,Vaxzevria,AstraZeneca,,2021-03-17
+286,Albânia,Vaxzevria,AstraZeneca,,2021-03-10
+287,Brunei,Vaxzevria,AstraZeneca,2021-02-22,2021-04-03
+288,Malásia,Vaxzevria,AstraZeneca,2021-02-15,2021-05-05
+289,Síria,Vaxzevria,AstraZeneca,2021-02-03,2021-04-01
+290,Iêmen,Vaxzevria,AstraZeneca,2021-02-27,2021-04-20
+291,Mônaco,Vaxzevria,AstraZeneca,,2022-04-27
+292,Kosovo,Vaxzevria,AstraZeneca,,2021-03-31
+293,São Tomé e Príncipe,Vaxzevria,AstraZeneca,,2021-03-15
+294,Honduras,Vaxzevria,AstraZeneca,2021-02-15,2021-03-15
+295,Sint Maarten,Vaxzevria,AstraZeneca,,
+296,Uruguai,Vaxzevria,AstraZeneca,2021-02-11,2021-04-17
+297,Equador,Vaxzevria,AstraZeneca,2021-01-22,2021-03-19
+298,Paquistão,Vaxzevria,AstraZeneca,2021-01-20,2021-02-03
+299,Somália,Vaxzevria,AstraZeneca,2021-02-22,2021-03-16
+300,Sudão,Vaxzevria,AstraZeneca,2021-02-20,2021-03-09
+301,Antígua e Barbuda,Vaxzevria,AstraZeneca,2021-02-01,2021-03-01
+302,Guatemala,Vaxzevria,AstraZeneca,2021-03-11,2021-03-15
+303,Bermudas,Vaxzevria,AstraZeneca,,2021-05-07
+304,Curaçao,Vaxzevria,AstraZeneca,,
+305,Curaçao,Vaxzevria,AstraZeneca,,2021-03-14
+306,São Cristóvão e Névis,Vaxzevria,AstraZeneca,,
+307,Argentina,Vaxzevria,AstraZeneca,2021-12-20,2021-03-30
+308,Dominica,Vaxzevria,AstraZeneca,2021-02-25,2021-04-07
+309,Suriname,Vaxzevria,AstraZeneca,2021-05-10,2021-05-26
+310,Santa Lúcia,Vaxzevria,AstraZeneca,,
+311,Trindade e Tobago,Vaxzevria,AstraZeneca,,2021-04-07
+312,República Dominicana,Vaxzevria,AstraZeneca,,
+313,Nauru,Vaxzevria,AstraZeneca,2021-03-02,2021-04-09
+314,Montenegro,Vaxzevria,AstraZeneca,,2021-03-31
+315,Noruega,Vaxzevria,AstraZeneca,,2021-01-06
+316,Macedônia,Vaxzevria,AstraZeneca,,2021-03-31
+317,Colômbia,Vaxzevria,AstraZeneca,2021-02-23,2021-03-29
+318,Guiana,Vaxzevria,AstraZeneca,,
+319,Vanuatu,Vaxzevria,AstraZeneca,2021-05-10,2021-06-02
+320,Samoa,Vaxzevria,AstraZeneca,2021-02-23,2021-04-18
+321,Nova Zelândia,Vaxzevria,AstraZeneca,2021-07-22,2021-11-26
+322,Tonga,Vaxzevria,AstraZeneca,2021-02-22,2021-04-14
+323,Singapura,Vaxzevria,AstraZeneca,,
+324,Quiribati,Vaxzevria,AstraZeneca,2021-03-12,2021-05-26
+325,Brasil,Vaxzevria,AstraZeneca,2021-01-17,2021-01-18
+326,Barbados,Vaxzevria,AstraZeneca,,2021-04-08
+327,Austrália,Vaxzevria,AstraZeneca,2021-02-15,2021-02-21
+328,República da Coreia,Vaxzevria,AstraZeneca,2021-02-09,2021-02-26
+329,Estados Federados da Micronésia,Vaxzevria,AstraZeneca,,
+330,Tuvalu,Vaxzevria,AstraZeneca,2021-02-23,2021-04-13
+331,Peru,Vaxzevria,AstraZeneca,2021-04-12,2021-04-21
+332,Sérvia,Vaxzevria,AstraZeneca,,2021-02-24
+333,Turquemenistão,Vaxzevria,AstraZeneca,,2021-02-24
+334,Tajiquistão,Vaxzevria,AstraZeneca,,2021-04-14
+335,Costa Rica,Vaxzevria,AstraZeneca,2021-02-26,2021-04-19
+336,Jamaica,Vaxzevria,AstraZeneca,2021-02-15,2021-03-10
+337,Andorra,Vaxzevria,AstraZeneca,,2021-03-03
+338,Azerbaijão,Vaxzevria,AstraZeneca,,2021-05-05
+339,Guadalupe,Vaxzevria,AstraZeneca,,
+340,Indonésia,Vaxzevria,AstraZeneca,2021-02-21,2021-03-23
+341,Tailândia,Vaxzevria,AstraZeneca,2021-01-20,2021-03-16
+342,Timor-Leste,Vaxzevria,AstraZeneca,2021-02-23,2021-04-07
+343,Butão,Vaxzevria,AstraZeneca,2021-06-17,
+344,Maldivas,Vaxzevria,AstraZeneca,2021-06-20,2021-07-27
+345,Panamá,Vaxzevria,AstraZeneca,2021-03-02,2021-04-22
+346,Granada,Vaxzevria,AstraZeneca,2021-02-12,2021-02-15
+347,Chile,Vaxzevria,AstraZeneca,2021-01-27,2021-04-27
+348,Bahrein,Vaxzevria,AstraZeneca,2020-11-03,2020-11-04
+349,Chile,Convidecia,CanSino Biologicals,2021-04-07,2021-06-03
+350,México,Convidecia,CanSino Biologicals,2021-02-08,2021-03-28
+351,China,Convidecia,CanSino Biologicals,2020-07-22,2020-07-22
+352,Malásia,Convidecia,CanSino Biologicals,2021-06-15,
+353,Iraque,Convidecia,CanSino Biologicals,,
+354,Jordânia,Convidecia,CanSino Biologicals,,
+355,Egito,Convidecia,CanSino Biologicals,,
+356,Irã,Convidecia,CanSino Biologicals,,
+357,Equador,Convidecia,CanSino Biologicals,2021-06-14,2021-08-02
+358,Argentina,Convidecia,CanSino Biologicals,,2021-09-08
+359,Emirados Árabes Unidos,Convidecia,CanSino Biologicals,,
+360,Iêmen,Convidecia,CanSino Biologicals,,
+361,Paquistão,Convidecia,CanSino Biologicals,2021-01-20,2021-02-03
+362,Afeganistão	,Convidecia,CanSino Biologicals,,
+363,Bahrein,Convidecia,CanSino Biologicals,,
+364,Djibouti,Convidecia,CanSino Biologicals,,
+365,Catar,Convidecia,CanSino Biologicals,,
+366,Arábia Saudita,Convidecia,CanSino Biologicals,,
+367,Somália,Convidecia,CanSino Biologicals,,
+368,Sudão,Convidecia,CanSino Biologicals,,
+369,Síria,Convidecia,CanSino Biologicals,,
+370,Tunísia,Convidecia,CanSino Biologicals,,
+371,Kuwait,Convidecia,CanSino Biologicals,,
+372,Líbano,Convidecia,CanSino Biologicals,,
+373,Líbia,Convidecia,CanSino Biologicals,,
+374,Camarões,Convidecia,CanSino Biologicals,,
+375,Omã,Convidecia,CanSino Biologicals,,
+376,Palestina,Convidecia,CanSino Biologicals,,
+377,Bielorrússia,Covi-Vac,Chumakov,,2022-01-12
+378,Macedônia,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),,2021-04-21
+379,China,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),2020-07-22,2020-07-22
+380,Armênia,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),,2022-03-09
+381,Suíça,Comirnaty,Pfizer BioNTech,,2020-12-23
+382,Paquistão,Comirnaty,Pfizer BioNTech,2021-01-20,2021-02-03
+383,Martinica,Comirnaty,Pfizer BioNTech,,
+384,Botsuana,Comirnaty,Pfizer BioNTech,2021-02-25,2021-03-26
+385,Azerbaijão,Comirnaty,Pfizer BioNTech,,2021-06-09
+386,Honduras,Comirnaty,Pfizer BioNTech,,2021-06-21
+387,Suriname,Comirnaty,Pfizer BioNTech,2021-08-20,2021-08-28
+388,Argentina,Comirnaty,Pfizer BioNTech,,2021-09-16
+389,São Cristóvão e Névis,Comirnaty,Pfizer BioNTech,2021-09-01,2021-09-01
+390,Santa Lúcia,Comirnaty,Pfizer BioNTech,,
+391,Guatemala,Comirnaty,Pfizer BioNTech,,2021-08-22
+392,Camarões,Comirnaty,Pfizer BioNTech,2021-01-06,2021-01-28
+393,Granada,Comirnaty,Pfizer BioNTech,,2021-08-23
+394,Guiana,Comirnaty,Pfizer BioNTech,,2021-08-24
+395,Djibouti,Comirnaty,Pfizer BioNTech,2021-02-22,2021-03-15
+396,Antígua e Barbuda,Comirnaty,Pfizer BioNTech,2021-08-12,2021-08-24
+397,Curaçao,Comirnaty,Pfizer BioNTech,,2021-08-12
+398,Belize,Comirnaty,Pfizer BioNTech,2021-12-31,2021-08-21
+399,Barbados,Comirnaty,Pfizer BioNTech,,2021-08-19
+400,Dominica,Comirnaty,Pfizer BioNTech,,
+401,Macedônia,Comirnaty,Pfizer BioNTech,,2021-02-17
+402,São Vicente e Granadinas,Comirnaty,Pfizer BioNTech,,
+403,Egito,Comirnaty,Pfizer BioNTech,2020-12-30,2021-01-24
+404,Indonésia,Comirnaty,Pfizer BioNTech,2021-07-14,2021-08-23
+405,Tailândia,Comirnaty,Pfizer BioNTech,2021-06-24,2021-08-06
+406,Palau,Comirnaty,Pfizer BioNTech,2020-12-11,2021-07-26
+407,Polônia,Comirnaty,Pfizer BioNTech,,2020-12-23
+408,Hungria,Comirnaty,Pfizer BioNTech,,2020-12-23
+409,Bulgária,Comirnaty,Pfizer BioNTech,,2020-12-30
+410,Luxemburgo,Comirnaty,Pfizer BioNTech,,2020-12-30
+411,Malta,Comirnaty,Pfizer BioNTech,,2020-12-23
+412,Tchéquia,Comirnaty,Pfizer BioNTech,,2020-12-23
+413,Ucrânia,Comirnaty,Pfizer BioNTech,,2021-04-14
+414,Chipre,Comirnaty,Pfizer BioNTech,,2020-12-23
+415,Suécia,Comirnaty,Pfizer BioNTech,,2020-12-23
+416,Lituânia,Comirnaty,Pfizer BioNTech,,2020-12-23
+417,Espanha,Comirnaty,Pfizer BioNTech,,2020-12-30
+418,França,Comirnaty,Pfizer BioNTech,,2020-12-30
+419,Grécia,Comirnaty,Pfizer BioNTech,,2020-12-23
+420,Israel,Comirnaty,Pfizer BioNTech,,2020-12-16
+421,Bélgica,Comirnaty,Pfizer BioNTech,,2020-12-30
+422,Romênia,Comirnaty,Pfizer BioNTech,,2021-01-27
+423,Portugal,Comirnaty,Pfizer BioNTech,,2020-12-23
+424,Irlanda,Comirnaty,Pfizer BioNTech,,2020-12-30
+425,Estônia,Comirnaty,Pfizer BioNTech,,2020-12-23
+426,Albânia,Comirnaty,Pfizer BioNTech,,2021-01-13
+427,Países Baixos,Comirnaty,Pfizer BioNTech,,2021-01-06
+428,Islândia,Comirnaty,Pfizer BioNTech,,2020-12-30
+429,Itália,Comirnaty,Pfizer BioNTech,,2020-12-23
+430,Letônia,Comirnaty,Pfizer BioNTech,,2020-12-30
+431,Dinamarca,Comirnaty,Pfizer BioNTech,,2020-12-16
+432,Croácia,Comirnaty,Pfizer BioNTech,,2020-12-23
+433,Eslováquia,Comirnaty,Pfizer BioNTech,,2020-12-23
+434,Alemanha,Comirnaty,Pfizer BioNTech,,2020-12-23
+435,Finlândia,Comirnaty,Pfizer BioNTech,,2020-12-23
+436,Austria,Comirnaty,Pfizer BioNTech,,2020-12-30
+437,Líbano,Comirnaty,Pfizer BioNTech,2020-12-16,2021-02-14
+438,Filipinas,Comirnaty,Pfizer BioNTech,2021-01-14,2021-05-12
+439,Malásia,Comirnaty,Pfizer BioNTech,2021-01-08,2021-02-24
+440,Mongólia,Comirnaty,Pfizer BioNTech,2021-01-10,2021-03-26
+441,Japão,Comirnaty,Pfizer BioNTech,2021-02-14,2021-02-17
+442,Eslovênia,Comirnaty,Pfizer BioNTech,,2020-12-23
+443,Tunísia,Comirnaty,Pfizer BioNTech,2021-01-11,2021-03-13
+444,Bahrein,Comirnaty,Pfizer BioNTech,2020-11-03,2020-11-04
+445,Emirados Árabes Unidos,Comirnaty,Pfizer BioNTech,,
+446,Palestina,Comirnaty,Pfizer BioNTech,2021-01-25,2021-02-02
+447,Arábia Saudita,Comirnaty,Pfizer BioNTech,2020-12-10,2021-01-06
+448,Jordânia,Comirnaty,Pfizer BioNTech,2020-12-13,2021-01-13
+449,Ilhas Cayman,Comirnaty,Pfizer BioNTech,2020-12-02,2021-01-15
+450,Colômbia,Comirnaty,Pfizer BioNTech,2021-01-05,2021-02-17
+451,Aruba,Comirnaty,Pfizer BioNTech,,2021-02-17
+452,Omã,Comirnaty,Pfizer BioNTech,2021-02-14,2020-12-29
+453,Catar,Comirnaty,Pfizer BioNTech,,
+454,Kuwait,Comirnaty,Pfizer BioNTech,2020-12-13,2020-12-28
+455,Panamá,Comirnaty,Pfizer BioNTech,2020-12-28,2021-01-20
+456,Chile,Comirnaty,Pfizer BioNTech,2020-12-16,2020-12-21
+457,Bermudas,Comirnaty,Pfizer BioNTech,2020-12-02,2021-01-11
+458,México,Comirnaty,Pfizer BioNTech,2020-12-11,2020-12-24
+459,Costa Rica,Comirnaty,Pfizer BioNTech,2020-12-15,2020-12-24
+460,Estados Unidos da America,Comirnaty,Pfizer BioNTech,2020-12-11,2020-12-14
+461,Quirguistão,Comirnaty,Pfizer BioNTech,,2021-11-03
+462,Anguilla,Comirnaty,Pfizer BioNTech,,2021-09-06
+463,Kosovo,Comirnaty,Pfizer BioNTech,,2021-05-05
+464,Ilhas Turcas e Caicos,Comirnaty,Pfizer BioNTech,,2021-01-11
+465,Equador,Comirnaty,Pfizer BioNTech,2021-12-17,2021-01-20
+466,Canadá,Comirnaty,Pfizer BioNTech,2020-12-09,2020-12-14
+467,Suazilândia,Comirnaty,Pfizer BioNTech,,
+468,Tanzânia,Comirnaty,Pfizer BioNTech,2021-08-24,
+469,Uganda,Comirnaty,Pfizer BioNTech,,
+470,África do Sul,Comirnaty,Pfizer BioNTech,,
+471,Tonga,Comirnaty,Pfizer BioNTech,2021-10-13,2021-10-21
+472,Timor-Leste,Comirnaty,Pfizer BioNTech,2021-08-27,2021-10-27
+473,Benin,Comirnaty,Pfizer BioNTech,,
+474,Costa do Marfim,Comirnaty,Pfizer BioNTech,2021-01-15,
+475,Camarões,Comirnaty,Pfizer BioNTech,2021-08-19,
+476,Gabão,Comirnaty,Pfizer BioNTech,,
+477,Quênia,Comirnaty,Pfizer BioNTech,,
+478,Namíbia,Comirnaty,Pfizer BioNTech,2021-07-09,
+479,San Marino,Comirnaty,Pfizer BioNTech,,2021-03-03
+480,Guiana Francesa,Comirnaty,Pfizer BioNTech,,2021-01-13
+481,Jamaica,Comirnaty,Pfizer BioNTech,2021-08-16,2021-08-21
+482,Uzbequistão,Comirnaty,Pfizer BioNTech,,2021-09-15
+483,Tajiquistão,Comirnaty,Pfizer BioNTech,,2021-10-06
+484,Nicarágua,Comirnaty,Pfizer BioNTech,2020-12-31,2021-10-13
+485,Líbia,Comirnaty,Pfizer BioNTech,2021-02-24,2021-04-11
+486,Iraque,Comirnaty,Pfizer BioNTech,2020-12-29,2021-03-02
+487,Curaçao,Comirnaty,Pfizer BioNTech,,2021-02-24
+488,Estados Federados da Micronésia,Comirnaty,Pfizer BioNTech,2020-12-11,2021-08-24
+489,Ilhas Marshall,Comirnaty,Pfizer BioNTech,2020-12-11,2021-10-01
+490,Liechtenstein,Comirnaty,Pfizer BioNTech,,2021-01-06
+491,Nepal,Comirnaty,Pfizer BioNTech,2021-06-30,2021-11-14
+492,Cambodja,Comirnaty,Pfizer BioNTech,2021-08-02,2022-01-14
+493,Ilhas Salomão,Comirnaty,Pfizer BioNTech,2021-10-15,2021-12-16
+494,Samoa,Comirnaty,Pfizer BioNTech,,2021-10-25
+495,Armênia,Comirnaty,Pfizer BioNTech,,2022-02-16
+496,Irã,Comirnaty,Pfizer BioNTech,,
+497,Afeganistão	,Comirnaty,Pfizer BioNTech,,
+498,El Salvador,Comirnaty,Pfizer BioNTech,2021-01-17,2021-03-23
+499,Países Baixos Caribenhos,Comirnaty,Pfizer BioNTech,,2021-02-22
+500,Reino Unido,Comirnaty,Pfizer BioNTech,,2020-12-21
+501,Uruguai,Comirnaty,Pfizer BioNTech,2021-01-21,2021-03-12
+502,Cazaquistão,Comirnaty,Pfizer BioNTech,,2021-11-10
+503,Iêmen,Comirnaty,Pfizer BioNTech,,
+504,Sint Maarten,Comirnaty,Pfizer BioNTech,,2021-02-22
+505,Peru,Comirnaty,Pfizer BioNTech,2021-02-01,2021-03-08
+506,Porto Rico,Comirnaty,Pfizer BioNTech,2020-12-11,
+507,Cabo Verde,Comirnaty,Pfizer BioNTech,2021-02-19,2021-03-18
+508,Sudão,Comirnaty,Pfizer BioNTech,,
+509,Moldávia,Comirnaty,Pfizer BioNTech,,2021-03-24
+510,Bangladesh,Comirnaty,Pfizer BioNTech,2021-03-08,2021-06-21
+511,Maldivas,Comirnaty,Pfizer BioNTech,2021-03-14,2021-04-13
+512,Butão,Comirnaty,Pfizer BioNTech,2021-03-08,2021-07-20
+513,Somália,Comirnaty,Pfizer BioNTech,2021-02-22,2021-03-16
+514,Síria,Comirnaty,Pfizer BioNTech,2021-02-03,2021-04-01
+515,Nova Zelândia,Comirnaty,Pfizer BioNTech,2021-02-03,2021-02-19
+516,Guam,Comirnaty,Pfizer BioNTech,2020-12-11,2021-01-04
+517,República Democrática Popular do Laos,Comirnaty,Pfizer BioNTech,2021-05-07,2021-06-15
+518,Brunei,Comirnaty,Pfizer BioNTech,,
+519,Geórgia,Comirnaty,Pfizer BioNTech,,2021-03-31
+520,Noruega,Comirnaty,Pfizer BioNTech,,2020-12-23
+521,Samoa Americana,Comirnaty,Pfizer BioNTech,2020-12-11,2020-12-21
+522,Comunidade das Ilhas Marianas do Norte,Comirnaty,Pfizer BioNTech,2020-12-11,2020-12-19
+523,Austrália,Comirnaty,Pfizer BioNTech,2021-01-25,2021-02-21
+524,Polinésia Francesa,Comirnaty,Pfizer BioNTech,2020-12-29,2021-01-18
+525,Singapura,Comirnaty,Pfizer BioNTech,2020-12-14,2020-12-30
+526,Nova Caledônia,Comirnaty,Pfizer BioNTech,2020-12-29,2021-01-20
+527,Guadalupe,Comirnaty,Pfizer BioNTech,,2021-01-08
+528,Sérvia,Comirnaty,Pfizer BioNTech,,2020-12-23
+529,Brasil,Comirnaty,Pfizer BioNTech,2021-02-23,2021-05-03
+530,Ruanda,Comirnaty,Pfizer BioNTech,2021-02-19,2021-03-05
+531,Guiné,Comirnaty,Pfizer BioNTech,2021-01-27,2021-03-05
+532,República da Coreia,Comirnaty,Pfizer BioNTech,2021-03-04,2021-02-27
+533,Niue,Comirnaty,Pfizer BioNTech,,2021-06-08
+534,Tokelau,Comirnaty,Pfizer BioNTech,2021-02-03,2021-07-20
+535,Andorra,Comirnaty,Pfizer BioNTech,,2021-01-20
+536,Bolívia,Comirnaty,Pfizer BioNTech,2021-04-29,2021-04-30
+537,Montenegro,Comirnaty,Pfizer BioNTech,,2021-05-05
+538,China,Comirnaty,Pfizer BioNTech,2021-01-25,2021-03-06
+539,Vietnã,Comirnaty,Pfizer BioNTech,2021-06-12,2021-07-01
+540,Sri Lanka,Comirnaty,Pfizer BioNTech,2021-05-08,2021-07-07
+541,Paraguai,Comirnaty,Pfizer BioNTech,,2021-07-12
+542,Trindade e Tobago,Comirnaty,Pfizer BioNTech,,2021-10-12
+543,Mônaco,Comirnaty,Pfizer BioNTech,,2021-06-30
+544,Ilhas Cook,Comirnaty,Pfizer BioNTech,2021-02-03,2021-05-17
+545,Suíça,Spikevax,Moderna,,2020-12-23
+546,Paraguai,Spikevax,Moderna,2020-12-29,2021-06-09
+547,Guadalupe,Spikevax,Moderna,,
+548,Botsuana,Spikevax,Moderna,2021-04-16,2021-03-26
+549,Jordânia,Spikevax,Moderna,2020-12-13,2021-01-13
+550,Bahrein,Spikevax,Moderna,,
+551,México,Spikevax,Moderna,2021-08-17,2021-08-25
+552,Tunísia,Spikevax,Moderna,2021-01-11,2021-03-13
+553,Suriname,Spikevax,Moderna,2021-07-14,2021-07-27
+554,Guiana,Spikevax,Moderna,,2021-07-03
+555,Tajiquistão,Spikevax,Moderna,,2021-07-28
+556,Uzbequistão,Spikevax,Moderna,,2021-07-28
+557,Argentina,Spikevax,Moderna,2021-07-23,2021-08-02
+558,Índia,Spikevax,Moderna,2021-06-29,
+559,Colômbia,Spikevax,Moderna,2021-06-25,2021-07-27
+560,Chipre,Spikevax,Moderna,,2021-01-20
+561,Croácia,Spikevax,Moderna,,2020-12-30
+562,Irlanda,Spikevax,Moderna,,2020-12-30
+563,Romênia,Spikevax,Moderna,,2021-02-03
+564,Tchéquia,Spikevax,Moderna,,2020-12-30
+565,Ruanda,Spikevax,Moderna,2021-07-29,
+566,Bulgária,Spikevax,Moderna,,2021-01-13
+567,Dinamarca,Spikevax,Moderna,,2020-12-16
+568,Finlândia,Spikevax,Moderna,,2020-12-23
+569,Eslovênia,Spikevax,Moderna,,2021-01-20
+570,Hungria,Spikevax,Moderna,,2021-01-13
+571,Letônia,Spikevax,Moderna,,2021-01-13
+572,Portugal,Spikevax,Moderna,,2020-12-23
+573,Alemanha,Spikevax,Moderna,,2021-01-13
+574,Polônia,Spikevax,Moderna,,2020-12-30
+575,Itália,Spikevax,Moderna,,2021-01-06
+576,Países Baixos,Spikevax,Moderna,,2021-01-13
+577,Lituânia,Spikevax,Moderna,,2021-01-13
+578,Bélgica,Spikevax,Moderna,,2021-01-13
+579,Islândia,Spikevax,Moderna,,2021-01-13
+580,Luxemburgo,Spikevax,Moderna,,2021-01-20
+581,França,Spikevax,Moderna,,2021-01-13
+582,Espanha,Spikevax,Moderna,,2021-01-13
+583,Suécia,Spikevax,Moderna,,2021-02-17
+584,Estados Unidos da America,Spikevax,Moderna,2020-12-18,2020-12-21
+585,Palestina,Spikevax,Moderna,2021-01-25,2021-02-02
+586,Estônia,Spikevax,Moderna,,2021-01-20
+587,Austria,Spikevax,Moderna,,2021-01-13
+588,Eslováquia,Spikevax,Moderna,,2020-12-30
+589,Grécia,Spikevax,Moderna,,2020-12-23
+590,Quênia,Spikevax,Moderna,,
+591,Uganda,Spikevax,Moderna,,
+592,Dominica,Spikevax,Moderna,,2022-02-10
+593,Macedônia,Spikevax,Moderna,,2022-08-10
+594,Granada,Spikevax,Moderna,,2022-03-23
+595,Canadá,Spikevax,Moderna,2020-12-23,
+596,Arábia Saudita,Spikevax,Moderna,2020-12-10,2021-01-06
+597,Liechtenstein,Spikevax,Moderna,,2021-01-13
+598,Malta,Spikevax,Moderna,,2021-01-13
+599,Guiana Francesa,Spikevax,Moderna,,
+600,Armênia,Spikevax,Moderna,,2021-10-06
+601,Cabo Verde,Spikevax,Moderna,,
+602,Egito,Spikevax,Moderna,2020-12-30,2021-01-24
+603,Líbia,Spikevax,Moderna,2021-02-24,2021-04-11
+604,Honduras,Spikevax,Moderna,2021-02-17,2021-02-22
+605,Guatemala,Spikevax,Moderna,2021-02-25,2021-02-25
+606,Japão,Spikevax,Moderna,2021-05-21,2021-05-24
+607,Palau,Spikevax,Moderna,2020-12-18,2021-01-03
+608,Malásia,Spikevax,Moderna,2021-08-05,
+609,Costa Rica,Spikevax,Moderna,,
+610,Santa Lúcia,Spikevax,Moderna,,
+611,Chile,Spikevax,Moderna,2022-02-02,2022-02-02
+612,Afeganistão	,Spikevax,Moderna,,
+613,Djibouti,Spikevax,Moderna,,
+614,Moldávia,Spikevax,Moderna,,2021-12-08
+615,Nepal,Spikevax,Moderna,2021-09-15,2021-12-19
+616,Quirguistão,Spikevax,Moderna,,2021-12-15
+617,Bolívia,Spikevax,Moderna,,2022-01-10
+618,Austrália,Spikevax,Moderna,2021-08-09,2021-09-20
+619,Cambodja,Spikevax,Moderna,2021-08-02,2021-12-16
+620,Peru,Spikevax,Moderna,,
+621,Mônaco,Spikevax,Moderna,,2022-03-02
+622,Catar,Spikevax,Moderna,,
+623,Israel,Spikevax,Moderna,,2021-03-03
+624,Reino Unido,Spikevax,Moderna,,2021-01-11
+625,Sérvia,Spikevax,Moderna,,2021-11-10
+626,Omã,Spikevax,Moderna,,
+627,Somália,Spikevax,Moderna,,
+628,Sudão,Spikevax,Moderna,,
+629,Síria,Spikevax,Moderna,,
+630,Emirados Árabes Unidos,Spikevax,Moderna,,
+631,Iêmen,Spikevax,Moderna,,
+632,Países Baixos Caribenhos,Spikevax,Moderna,,2021-02-22
+633,Curaçao,Spikevax,Moderna,,
+634,Irã,Spikevax,Moderna,,
+635,Iraque,Spikevax,Moderna,,
+636,Líbano,Spikevax,Moderna,2020-12-16,2021-02-14
+637,Camarões,Spikevax,Moderna,,
+638,Brunei,Spikevax,Moderna,2021-04-09,2021-06-21
+639,Filipinas,Spikevax,Moderna,2021-05-05,2021-07-01
+640,Mongólia,Spikevax,Moderna,2021-01-10,
+641,Noruega,Spikevax,Moderna,,2021-01-06
+642,Porto Rico,Spikevax,Moderna,,
+643,Sint Maarten,Spikevax,Moderna,,
+644,Comunidade das Ilhas Marianas do Norte,Spikevax,Moderna,2020-12-18,2021-01-12
+645,Bermudas,Spikevax,Moderna,,
+646,República do Congo,Spikevax,Moderna,2021-03-03,2021-03-23
+647,Singapura,Spikevax,Moderna,2021-02-03,2021-03-17
+648,Wallis e Futuna,Spikevax,Moderna,2021-01-06,2021-03-19
+649,República da Coreia,Spikevax,Moderna,2021-05-21,2021-06-01
+650,Andorra,Spikevax,Moderna,,2021-07-14
+651,Ucrânia,Spikevax,Moderna,,2021-07-21
+652,Ilhas Marshall,Spikevax,Moderna,2020-12-18,2020-12-29
+653,Estados Federados da Micronésia,Spikevax,Moderna,2020-12-18,2021-01-13
+654,Samoa Americana,Spikevax,Moderna,2020-12-18,2020-12-23
+655,Guam,Spikevax,Moderna,2020-12-18,2021-01-29
+656,Fiji,Spikevax,Moderna,2021-09-01,
+657,Vietnã,Spikevax,Moderna,2021-06-28,2021-07-01
+658,Haiti,Spikevax,Moderna,,
+659,El Salvador,Spikevax,Moderna,2021-06-03,2021-08-02
+660,Butão,Spikevax,Moderna,2021-06-22,2021-07-20
+661,Indonésia,Spikevax,Moderna,2021-07-01,2021-07-25
+662,Kuwait,Spikevax,Moderna,2020-12-13,2020-12-28
+663,Paquistão,Spikevax,Moderna,2021-01-20,2021-02-03
+664,Bangladesh,Spikevax,Moderna,2021-06-27,2021-07-13
+665,Sri Lanka,Spikevax,Moderna,2021-06-28,2021-07-18
+666,Maldivas,Spikevax,Moderna,2021-06-06,
+667,Tailândia,Spikevax,Moderna,2021-05-13,2021-11-08
+668,Turquemenistão,EpiVacCorona,State Research Center of Virology & Biotechnology,,2021-02-24
+669,Paquistão,Covaxin,Bharat Biotech,,
+670,República Centro-Africana,Covaxin,Bharat Biotech,2021-02-26,2021-03-19
+671,Zimbábue,Covaxin,Bharat Biotech,,2021-02-18
+672,Paraguai,Covaxin,Bharat Biotech,2021-01-03,2021-04-10
+673,Comores,Covaxin,Bharat Biotech,2021-02-01,2021-04-10
+674,Ilhas Maurício,Covaxin,Bharat Biotech,2021-03-18,
+675,Botsuana,Covaxin,Bharat Biotech,2021-04-16,
+676,Índia,Covaxin,Bharat Biotech,2021-01-03,2021-01-16
+677,Irã,Covaxin,Bharat Biotech,2021-01-27,2021-02-09
+678,Nepal,Covaxin,Bharat Biotech,2021-03-19,
+679,Etiópia,Covaxin,Bharat Biotech,2021-03-03,2021-03-13
+680,Afeganistão	,Covaxin,Bharat Biotech,2021-02-23,2021-02-22
+681,Bahrein,Covaxin,Bharat Biotech,,
+682,Djibouti,Covaxin,Bharat Biotech,,
+683,Egito,Covaxin,Bharat Biotech,,
+684,Sudão,Covaxin,Bharat Biotech,,
+685,Síria,Covaxin,Bharat Biotech,,
+686,Tunísia,Covaxin,Bharat Biotech,,
+687,Emirados Árabes Unidos,Covaxin,Bharat Biotech,,
+688,Iêmen,Covaxin,Bharat Biotech,,
+689,Portugal,Covaxin,Bharat Biotech,,2021-01-06
+690,Camarões,Covaxin,Bharat Biotech,,
+691,Omã,Covaxin,Bharat Biotech,,
+692,Palestina,Covaxin,Bharat Biotech,,
+693,Catar,Covaxin,Bharat Biotech,,
+694,Arábia Saudita,Covaxin,Bharat Biotech,,
+695,Somália,Covaxin,Bharat Biotech,,
+696,Filipinas,Covaxin,Bharat Biotech,2021-04-19,
+697,Iraque,Covaxin,Bharat Biotech,,
+698,Jordânia,Covaxin,Bharat Biotech,,
+699,Kuwait,Covaxin,Bharat Biotech,,
+700,Líbano,Covaxin,Bharat Biotech,,
+701,Líbia,Covaxin,Bharat Biotech,,
+702,Moldávia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-05-26
+703,Malta,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-02-24
+704,Dinamarca,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-01-06
+705,México,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-05-27,2021-06-16
+706,Brasil,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-06-23
+707,Eslováquia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-03-03
+708,Belize,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-09-01
+709,Curaçao,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-08-19
+710,Cambodja,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-21,2021-08-01
+711,Egito,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-12-30,2021-01-24
+712,Papua-Nova Guiné,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-21,2021-08-28
+713,Trindade e Tobago,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-10-23
+714,Iêmen,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-04-20
+715,Antígua e Barbuda,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-08-27,2021-09-06
+716,Granada,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-11-12
+717,Sudão,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-20,2021-03-09
+718,Somália,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-22,2021-03-16
+719,Jamaica,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-13,2021-07-14
+720,Ilhas Virgens Britânicas,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+721,Índia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-08-05,
+722,Zâmbia,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+723,Nicarágua,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-25,2021-10-08
+724,Nova Caledônia,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+725,Indonésia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-09-07,2021-10-28
+726,Senegal,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-20,
+727,Suíça,Ad26.COV 2-S,Janssen Pharmaceuticals,,2020-12-23
+728,Namíbia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-08-02,
+729,Ruanda,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-11,
+730,Sudão do Sul,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+731,Suazilândia,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+732,Tanzânia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-20,2021-07-28
+733,Uganda,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+734,Etiópia,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+735,Quênia,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+736,Lesoto,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-07,
+737,Madagascar,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-21,
+738,Moçambique,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-26,
+739,Malawi,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+740,Canadá,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+741,Benin,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+742,Burkina Faso,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-20,
+743,Botsuana,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-03-26,
+744,Costa do Marfim,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-01-15,
+745,Camarões,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-22,
+746,Barbados,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-10-15
+747,Liechtenstein,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-10-13
+748,Guiana,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+749,Santa Lúcia,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+750,Estados Unidos da America,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-03-01
+751,Jordânia,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-12-13,2021-01-13
+752,Tailândia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-03-25,
+753,Camarões,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-01-06,2021-01-28
+754,Guadalupe,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+755,Austrália,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-25,
+756,Malásia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-15,
+757,Vanuatu,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-12-22,2022-01-28
+758,Omã,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+759,Paquistão,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+760,Emirados Árabes Unidos,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+761,Mônaco,Ad26.COV 2-S,Janssen Pharmaceuticals,,2022-04-27
+762,Bahrein,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-11-03,2020-11-04
+763,Líbia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-24,2021-04-11
+764,Brunei,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+765,Palau,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-03-21
+766,Porto Rico,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+767,Irã,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+768,Iraque,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+769,Líbano,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-12-16,2021-02-14
+770,Países Baixos,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-21
+771,Luxemburgo,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-14
+772,África do Sul,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-02-17
+773,Nova Zelândia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-07,
+774,Filipinas,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-04-19,2021-07-19
+775,República da Coreia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-04-07,2021-06-10
+776,Bulgária,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-05-12
+777,Estônia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+778,Islândia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+779,Noruega,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-03-03
+780,Polônia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-01-06
+781,Hungria,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-05-05
+782,Finlândia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2020-12-23
+783,Aruba,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+784,Guiné,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-03-22,2021-03-05
+785,Comunidade das Ilhas Marianas do Norte,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-03-19
+786,Irlanda,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-01-06
+787,Bélgica,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+788,Letônia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-07
+789,Eslovênia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+790,Romênia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-05-05
+791,Polinésia Francesa,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-03-25,2021-05-03
+792,Arábia Saudita,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-12-10,2021-01-06
+793,Ucrânia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-05-19
+794,Alemanha,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-21
+795,França,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+796,Grécia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-01-06
+797,Chipre,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-28
+798,Espanha,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-21
+799,Lituânia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-21
+800,Estados Federados da Micronésia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-04-09
+801,Portugal,Ad26.COV 2-S,Janssen Pharmaceuticals,,2020-12-30
+802,Austria,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-03-17
+803,Itália,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-01-06
+804,Croácia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-02-03
+805,Tchéquia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-03-03
+806,Bolívia,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-10-07
+807,Haiti,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+808,Honduras,Ad26.COV 2-S,Janssen Pharmaceuticals,,2021-04-22
+809,Samoa Americana,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-03-16
+810,Guam,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-03-15
+811,Ilhas Marshall,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-27,2021-04-08
+812,Bangladesh,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-15,
+813,Maldivas,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-06,
+814,Nepal,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-30,2021-07-19
+815,Afeganistão	,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-23,2021-02-22
+816,Síria,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-03,2021-04-01
+817,República Democrática Popular do Laos,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-23,2021-07-25
+818,Djibouti,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-22,2021-03-15
+819,Kuwait,Ad26.COV 2-S,Janssen Pharmaceuticals,2020-12-13,2020-12-28
+820,Palestina,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-01-25,2021-02-02
+821,Catar,Ad26.COV 2-S,Janssen Pharmaceuticals,,
+822,Tunísia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-01-11,2021-03-13
+823,Colômbia,Ad26.COV 2-S,Janssen Pharmaceuticals,2021-03-25,2021-06-23
+824,Geórgia,Coronavac,Sinovac,,2021-05-26
+825,Djibouti,Coronavac,Sinovac,2021-02-22,2021-03-15
+826,Botsuana,Coronavac,Sinovac,2021-04-08,2021-03-26
+827,Timor-Leste,Coronavac,Sinovac,2021-01-06,2021-06-14
+828,Armênia,Coronavac,Sinovac,,2021-06-16
+829,Cazaquistão,Coronavac,Sinovac,,2021-05-05
+830,Tailândia,Coronavac,Sinovac,2021-02-22,2021-02-28
+831,Azerbaijão,Coronavac,Sinovac,,2021-01-20
+832,República Bolivariana da Venezuela,Coronavac,Sinovac,,
+833,Chile,Coronavac,Sinovac,2021-01-20,2021-02-03
+834,Brasil,Coronavac,Sinovac,2021-01-17,2021-01-17
+835,Indonésia,Coronavac,Sinovac,2021-01-11,2021-01-13
+836,Filipinas,Coronavac,Sinovac,2021-02-22,2021-03-01
+837,Colômbia,Coronavac,Sinovac,2021-02-04,2021-02-22
+838,Equador,Coronavac,Sinovac,2021-03-06,2021-03-08
+839,Iêmen,Coronavac,Sinovac,2021-02-27,2021-04-20
+840,Argélia,Coronavac,Sinovac,2021-03-31,
+841,Ruanda,Coronavac,Sinovac,2021-07-17,
+842,Uganda,Coronavac,Sinovac,,
+843,Uzbequistão,Coronavac,Sinovac,,2021-10-20
+844,Portugal,Coronavac,Sinovac,,2020-12-23
+845,Afeganistão	,Coronavac,Sinovac,,
+846,Bahrein,Coronavac,Sinovac,,
+847,Irã,Coronavac,Sinovac,,
+848,Uruguai,Coronavac,Sinovac,2021-02-18,2021-02-27
+849,Malásia,Coronavac,Sinovac,2021-03-02,2021-03-18
+850,Emirados Árabes Unidos,Coronavac,Sinovac,,
+851,El Salvador,Coronavac,Sinovac,2021-03-09,2021-03-28
+852,Paraguai,Coronavac,Sinovac,2021-02-06,2021-03-10
+853,República Dominicana,Coronavac,Sinovac,2020-12-20,2021-02-24
+854,México,Coronavac,Sinovac,2021-02-09,2021-02-22
+855,Hungria,Coronavac,Sinovac,,2021-02-15
+856,Jordânia,Coronavac,Sinovac,2020-12-13,2021-01-13
+857,Kuwait,Coronavac,Sinovac,,
+858,Líbano,Coronavac,Sinovac,,
+859,Camarões,Coronavac,Sinovac,,
+860,Catar,Coronavac,Sinovac,,
+861,Arábia Saudita,Coronavac,Sinovac,,
+862,Ucrânia,Coronavac,Sinovac,,2021-04-14
+863,Benin,Coronavac,Sinovac,2021-02-26,2021-03-29
+864,Guiné Equatorial,Coronavac,Sinovac,,2021-02-12
+865,Cambodja,Coronavac,Sinovac,2021-02-12,2021-04-01
+866,China,Coronavac,Sinovac,2020-07-22,2020-07-22
+867,Iraque,Coronavac,Sinovac,,
+868,Albânia,Coronavac,Sinovac,,2021-03-24
+869,Líbia,Coronavac,Sinovac,2021-02-24,2021-04-11
+870,Maldivas,Coronavac,Sinovac,2021-03-14,
+871,Guiné,Coronavac,Sinovac,2021-04-01,2021-03-05
+872,Zimbábue,Coronavac,Sinovac,,2021-02-18
+873,Paquistão,Coronavac,Sinovac,2021-01-20,2021-02-03
+874,República Democrática Popular do Laos,Coronavac,Sinovac,2021-06-16,2021-10-05
+875,Egito,Coronavac,Sinovac,2020-12-30,2021-01-24
+876,Tunísia,Coronavac,Sinovac,2021-01-11,2021-03-13
+877,Somália,Coronavac,Sinovac,,
+878,Sudão,Coronavac,Sinovac,2021-02-20,2021-03-09
+879,Moldávia,Coronavac,Sinovac,,2021-05-12
+880,Macedônia,Coronavac,Sinovac,,2021-06-16
+881,Tajiquistão,Coronavac,Sinovac,,2021-06-09
+882,Omã,Coronavac,Sinovac,2021-02-14,2020-12-29
+883,Palestina,Coronavac,Sinovac,2021-01-25,2021-02-02
+884,Bangladesh,Coronavac,Sinovac,2021-06-06,2021-12-11
+885,Síria,Coronavac,Sinovac,2021-02-03,2021-04-01
+886,Filipinas,NUVAXOVID,Novavax,,
+887,República da Coreia,NUVAXOVID,Novavax,,
+888,Nova Zelândia,NUVAXOVID,Novavax,,
+889,Austrália,NUVAXOVID,Novavax,,
+890,Mônaco,NUVAXOVID,Novavax,,2022-03-30
+891,Portugal,NUVAXOVID,Novavax,,2021-01-20
+892,Japão,NUVAXOVID,Novavax,,
+893,Suíça,NUVAXOVID,Novavax,,2022-07-20
+894,Estados Unidos da America,NUVAXOVID,Novavax,,
+895,Guadalupe,NUVAXOVID,Novavax,,
+896,Porto Rico,NUVAXOVID,Novavax,,
+897,Islândia,NUVAXOVID,Novavax,,2022-08-03
+898,Luxemburgo,NUVAXOVID,Novavax,,2022-03-02
+899,Países Baixos,NUVAXOVID,Novavax,,2022-03-16
+900,Polônia,NUVAXOVID,Novavax,,2021-06-09
+901,Eslováquia,NUVAXOVID,Novavax,,2022-03-09
+902,Eslovênia,NUVAXOVID,Novavax,,2022-03-02
+903,Suécia,NUVAXOVID,Novavax,,2022-03-09
+904,França,NUVAXOVID,Novavax,,2022-02-23
+905,Alemanha,NUVAXOVID,Novavax,,2022-02-23
+906,Grécia,NUVAXOVID,Novavax,,2021-10-13
+907,Irlanda,NUVAXOVID,Novavax,,2022-03-16
+908,Itália,NUVAXOVID,Novavax,,2022-03-02
+909,Letônia,NUVAXOVID,Novavax,,2022-03-02
+910,Indonésia,NUVAXOVID,Novavax,2021-11-01,2021-12-06
+911,Austria,NUVAXOVID,Novavax,,2022-02-23
+912,Croácia,NUVAXOVID,Novavax,,2022-03-02
+913,Chipre,NUVAXOVID,Novavax,,2022-03-09
+914,Tchéquia,NUVAXOVID,Novavax,,2022-03-02
+915,Estônia,NUVAXOVID,Novavax,,2022-03-09
+916,Honduras,Covishield,Serum Institute of India,2021-03-04,2021-05-22
+917,Burkina Faso,Covishield,Serum Institute of India,2021-05-21,2021-06-02
+918,Fiji,Covishield,Serum Institute of India,,2021-04-06
+919,Tajiquistão,Covishield,Serum Institute of India,,2021-03-24
+920,El Salvador,Covishield,Serum Institute of India,2021-01-25,2021-04-12
+921,Albânia,Covishield,Serum Institute of India,,2021-04-21
+922,Seychelles,Covishield,Serum Institute of India,,2021-01-10
+923,Afeganistão	,Covishield,Serum Institute of India,2021-02-23,2021-02-22
+924,Sudão,Covishield,Serum Institute of India,2021-02-20,2021-03-09
+925,Paquistão,Covishield,Serum Institute of India,2021-01-20,2021-02-03
+926,Mongólia,Covishield,Serum Institute of India,2021-01-10,2021-02-23
+927,Papua-Nova Guiné,Covishield,Serum Institute of India,2021-03-02,2021-05-05
+928,Gana,Covishield,Serum Institute of India,2021-02-12,2021-03-02
+929,Sri Lanka,Covishield,Serum Institute of India,2021-01-22,2021-01-29
+930,Myanmar,Covishield,Serum Institute of India,2021-01-20,2021-01-27
+931,Maldivas,Covishield,Serum Institute of India,2021-01-29,2021-02-01
+932,Bangladesh,Covishield,Serum Institute of India,2021-01-07,2021-01-27
+933,Índia,Covishield,Serum Institute of India,2021-01-03,2021-01-16
+934,Nepal,Covishield,Serum Institute of India,2021-01-15,2021-01-27
+935,Butão,Covishield,Serum Institute of India,2021-01-21,2021-03-27
+936,Síria,Covishield,Serum Institute of India,2021-02-03,2021-04-01
+937,Guiana,Covishield,Serum Institute of India,,2021-02-11
+938,Barbados,Covishield,Serum Institute of India,,2021-01-08
+939,Dominica,Covishield,Serum Institute of India,2021-02-09,2021-02-12
+940,República Dominicana,Covishield,Serum Institute of India,2020-12-20,2021-02-16
+941,Quênia,Covishield,Serum Institute of India,,2021-03-05
+942,Lesoto,Covishield,Serum Institute of India,2021-02-25,2021-03-10
+943,Etiópia,Covishield,Serum Institute of India,2021-03-03,2021-03-13
+944,Jamaica,Covishield,Serum Institute of India,2021-02-15,2021-03-10
+945,Curaçao,Covishield,Serum Institute of India,2021-03-05,2021-03-14
+946,	Serra Leoa,Covishield,Serum Institute of India,2021-03-04,2021-03-15
+947,Nigéria,Covishield,Serum Institute of India,2021-03-04,2021-03-05
+948,Ilhas Maurício,Covishield,Serum Institute of India,2021-01-21,2021-01-26
+949,Costa do Marfim,Covishield,Serum Institute of India,2021-02-13,2021-03-01
+950,Ruanda,Covishield,Serum Institute of India,2021-02-23,2021-03-05
+951,Togo,Covishield,Serum Institute of India,,2021-03-10
+952,Malawi,Covishield,Serum Institute of India,,2021-03-11
+953,Djibouti,Covishield,Serum Institute of India,2021-02-22,2021-03-15
+954,República Democrática Popular do Laos,Covishield,Serum Institute of India,2021-02-22,2021-04-02
+955,Cambodja,Covishield,Serum Institute of India,2021-02-12,2021-03-04
+956,Angola,Covishield,Serum Institute of India,,2021-03-10
+957,Gâmbia,Covishield,Serum Institute of India,2021-02-12,2021-03-10
+958,Uganda,Covishield,Serum Institute of India,,2021-03-10
+959,Canadá,Covishield,Serum Institute of India,,
+960,Bahrein,Covishield,Serum Institute of India,,2020-12-25
+961,Omã,Covishield,Serum Institute of India,,
+962,Emirados Árabes Unidos,Covishield,Serum Institute of India,,
+963,São Vicente e Granadinas,Covishield,Serum Institute of India,2021-02-11,2021-02-14
+964,Somália,Covishield,Serum Institute of India,2021-02-22,2021-03-16
+965,Santa Lúcia,Covishield,Serum Institute of India,2021-02-15,2021-02-17
+966,Granada,Covishield,Serum Institute of India,2021-02-12,2021-02-15
+967,Trindade e Tobago,Covishield,Serum Institute of India,2021-02-15,2021-02-17
+968,Cabo Verde,Covishield,Serum Institute of India,2021-02-25,2021-03-18
+969,Timor-Leste,Covishield,Serum Institute of India,2021-02-23,2021-04-07
+970,Iêmen,Covishield,Serum Institute of India,2021-02-27,2021-04-20
+971,Belize,Covishield,Serum Institute of India,2021-02-15,2021-03-01
+972,Suriname,Covishield,Serum Institute of India,2021-02-15,2021-02-23
+973,Antígua e Barbuda,Covishield,Serum Institute of India,2021-04-05,2021-07-12
+974,Guatemala,Covishield,Serum Institute of India,2021-02-18,2021-03-03
+975,Argentina,Covishield,Serum Institute of India,2020-12-30,2021-02-21
+976,Brasil,Covishield,Serum Institute of India,2021-01-17,2021-01-17
+977,Níger,Covishield,Serum Institute of India,2021-03-04,2021-03-29
+978,Senegal,Covishield,Serum Institute of India,2021-02-16,2021-02-23
+979,Ilhas Salomão,Covishield,Serum Institute of India,2021-02-22,2021-03-23
+980,Bolívia,Covishield,Serum Institute of India,,
+981,Suazilândia,Covishield,Serum Institute of India,,2021-03-19
+982,São Cristóvão e Névis,Covishield,Serum Institute of India,2021-01-29,2021-02-22
+983,São Tomé e Príncipe,Covishield,Serum Institute of India,2021-02-21,2021-03-15
+984,Camarões,Covishield,Serum Institute of India,2021-03-04,2021-04-12
+985,Guiné,Covishield,Serum Institute of India,2021-02-18,2021-03-05
+986,República Centro-Africana,Covishield,Serum Institute of India,2021-02-26,2021-03-19
+987,República Democrática do Congo,Covishield,Serum Institute of India,2021-02-26,2021-04-19
+988,República do Congo,Covishield,Serum Institute of India,2021-03-03,2021-03-23
+989,Benin,Covishield,Serum Institute of India,2021-02-24,2021-03-29
+990,Guiné-Bissau,Covishield,Serum Institute of India,,2021-04-02
+991,Botsuana,Covishield,Serum Institute of India,2021-02-26,2021-03-26
+992,Sudão do Sul,Covishield,Serum Institute of India,2021-03-01,2021-04-06
+993,Mali,Covishield,Serum Institute of India,2021-02-19,2021-03-31
+994,Libéria,Covishield,Serum Institute of India,2021-03-15,2021-04-01
+995,Zâmbia,Covishield,Serum Institute of India,2021-02-28,2021-04-14
+996,Mauritânia,Covishield,Serum Institute of India,,2021-03-26
+997,Nauru,Covishield,Serum Institute of India,2021-03-02,2021-06-01
+998,Tailândia,Covishield,Serum Institute of India,2021-01-21,2021-03-16
+999,Argélia,Covishield,Serum Institute of India,2021-02-01,
+1000,Nicarágua,Covishield,Serum Institute of India,2021-02-15,2021-04-06
+1001,Madagascar,Covishield,Serum Institute of India,2021-03-26,2021-05-10
+1002,Uzbequistão,Covishield,Serum Institute of India,,2021-04-28
+1003,Ucrânia,Covishield,Serum Institute of India,,2021-02-24
+1004,Comores,Covishield,Serum Institute of India,,2021-04-10
+1005,Namíbia,Covishield,Serum Institute of India,2021-03-05,2021-03-19
+1006,Moçambique,Covishield,Serum Institute of India,2021-03-04,2021-03-08
+1007,Nicarágua,Soberana Plus,Instituto Finlay de Vacunas,,2021-10-26
+1008,Cuba,Soberana Plus,Instituto Finlay de Vacunas,,
+1009,Irã,Sputnik-Light,Gamaleya Research Institute,,
+1010,Iraque,Sputnik-Light,Gamaleya Research Institute,,
+1011,Jordânia,Sputnik-Light,Gamaleya Research Institute,,
+1012,Kuwait,Sputnik-Light,Gamaleya Research Institute,,
+1013,Líbano,Sputnik-Light,Gamaleya Research Institute,2020-12-16,2021-02-14
+1014,Líbia,Sputnik-Light,Gamaleya Research Institute,,
+1015,Nicarágua,Sputnik-Light,Gamaleya Research Institute,,2021-10-25
+1016,Djibouti,Sputnik-Light,Gamaleya Research Institute,,
+1017,Egito,Sputnik-Light,Gamaleya Research Institute,,
+1018,Bahrein,Sputnik-Light,Gamaleya Research Institute,2020-11-03,2020-11-04
+1019,Palestina,Sputnik-Light,Gamaleya Research Institute,2021-01-25,2021-02-02
+1020,Síria,Sputnik-Light,Gamaleya Research Institute,2021-02-03,2021-04-01
+1021,República Democrática Popular do Laos,Sputnik-Light,Gamaleya Research Institute,2021-10-01,2021-09-29
+1022,República Bolivariana da Venezuela,Sputnik-Light,Gamaleya Research Institute,,
+1023,Filipinas,Sputnik-Light,Gamaleya Research Institute,2021-08-20,2021-08-23
+1024,Armênia,Sputnik-Light,Gamaleya Research Institute,,2022-02-09
+1025,Azerbaijão,Sputnik-Light,Gamaleya Research Institute,,2022-03-02
+1026,Bielorrússia,Sputnik-Light,Gamaleya Research Institute,,2021-10-06
+1027,Afeganistão	,Sputnik-Light,Gamaleya Research Institute,,
+1028,Sudão,Sputnik-Light,Gamaleya Research Institute,,
+1029,Tunísia,Sputnik-Light,Gamaleya Research Institute,2021-01-11,2021-03-13
+1030,Emirados Árabes Unidos,Sputnik-Light,Gamaleya Research Institute,,
+1031,Iêmen,Sputnik-Light,Gamaleya Research Institute,,
+1032,São Vicente e Granadinas,Sputnik-Light,Gamaleya Research Institute,,
+1033,Uzbequistão,Sputnik-Light,Gamaleya Research Institute,,2021-12-15
+1034,Camarões,Sputnik-Light,Gamaleya Research Institute,,
+1035,Omã,Sputnik-Light,Gamaleya Research Institute,,
+1036,Paquistão,Sputnik-Light,Gamaleya Research Institute,,
+1037,Catar,Sputnik-Light,Gamaleya Research Institute,,
+1038,Arábia Saudita,Sputnik-Light,Gamaleya Research Institute,,
+1039,Somália,Sputnik-Light,Gamaleya Research Institute,,
+1040,Paraguai,Hayat-Vax,,2020-12-30,2021-05-24
+1041,Filipinas,Hayat-Vax,,2021-08-11,2021-08-25
+1042,Seychelles,Hayat-Vax,,,
+1043,Irã,COVIran Barakat,,,
+1044,Mônaco,Covavax,,,2022-03-30
+1045,Tailândia,Covovax,,2022-04-27,
+1046,Índia,Covovax,,,
+1047,Austria,Spikevax Bivalent Original/Omicron BA.1,,,2021-07-28
+1048,Estônia,Spikevax Bivalent Original/Omicron BA.1,,,2022-10-12
+1049,Itália,Spikevax Bivalent Original/Omicron BA.1,,,2022-10-05
+1050,Luxemburgo,Spikevax Bivalent Original/Omicron BA.1,,,2022-09-14
+1051,Portugal,Spikevax Bivalent Original/Omicron BA.1,,,2022-09-28
+1052,Suíça,Spikevax Bivalent Original/Omicron BA.1,,,2020-12-30
+1053,Austria,Comirnaty Bivalent Original/Omicron BA.1,,,2021-01-06
+1054,Tchéquia,Comirnaty Bivalent Original/Omicron BA.1,,,2022-09-14
+1055,Estônia,Comirnaty Bivalent Original/Omicron BA.1,,,2022-09-28
+1056,Grécia,Comirnaty Bivalent Original/Omicron BA.1,,,2022-09-28
+1057,Hungria,Comirnaty Bivalent Original/Omicron BA.1,,,2022-09-07
+1058,Itália,Comirnaty Bivalent Original/Omicron BA.1,,,2022-09-14
+1059,Luxemburgo,Comirnaty Bivalent Original/Omicron BA.1,,,2022-09-07
+1060,Portugal,Comirnaty Bivalent Original/Omicron BA.1,,,2020-12-30
+1061,Suíça,Comirnaty Bivalent Original/Omicron BA.1,,,2022-10-19
+1062,Austria,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,2021-01-13
+1063,Tchéquia,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,2022-10-05
+1064,Estônia,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,2022-09-28
+1065,Grécia,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,2022-10-05
+1066,Itália,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,2022-09-28
+1067,Luxemburgo,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,2022-10-12
+1068,Portugal,Comirnaty Bivalent Original/Omicron BA.4/BA.5,,,2022-09-28
+1069,Alemanha,Spikevax Bivalent Original/Omicron - Generic,,,2022-09-14
+1070,Alemanha,Comirnaty Bivalent Original/Omicron - Generic,,,2022-09-07
