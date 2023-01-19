@@ -58,11 +58,7 @@
 - Levantar custos com a utilização do google cloud no período do projeto e possíveis otimizações de custo
 
 
-#### FLUXO DE PROJETO:
+#### WORKFLOW DO PROJETO:
 
-![Workflow definido](src\Workflow.png "Workflow do projeto")
+![Workflow do Projeto](https://user-images.githubusercontent.com/122938850/213433531-acd0cc5d-b7e3-48d5-8ff6-c6d3c9614552.png)
 
-
-#### Análises realizadas com auxílio de Dashboards utilizando o LookerStudio
-
-[Dashboards](https://datastudio.google.com/u/0/reporting/89c9b3d3-4154-4136-80fa-37378987209b/page/p_omj1djzb2c/edit)
